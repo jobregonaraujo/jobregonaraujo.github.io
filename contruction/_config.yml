@@ -12,7 +12,8 @@ json:
   description:
     - Hola!
     - Estamos trabajando
-    - en un nuevo site
+    - en la construccion
+    - de este sitio web
   cv: assets/cv.pdf
   address:
     - Caracas
