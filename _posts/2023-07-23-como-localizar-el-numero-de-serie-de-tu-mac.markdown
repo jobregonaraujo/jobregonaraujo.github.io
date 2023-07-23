@@ -1,0 +1,85 @@
+---
+layout: post
+title: Como localizar el numero de serie de tu mac
+date: 2023-07-23 15:43:29 -0400
+img: how-to-find-the-serial-number-on-a-mac.jpg
+tags: MAC
+---
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+El número de serie de su Mac es un identificador único que distingue a su Mac de todas los demás. Deberá proporcionar el número de serie de su Mac cuando solicite un servicio.
+
+La forma más fácil de encontrar su número de serie dependerá de si la misma enciende o no. Si su Mac enciende(y puedes acceder a la interfaz gráfica), puede encontrar el número de serie de forma muy sencilla desde la interfaz del usuario. Si no se enciende, deberá encontrarlo (físicamente) en la mac o en el embalaje original.
+<h4>Si tu Mac enciende.</h4>
+Si tu Mac funciona correctamente, es fácil encontrar el número de serie. Simplemente haga clic en el ícono del menú Apple (<i class="fab fa-apple"></i>) en la parte superior de la pantalla y seleccione "Acerca de esta Mac".
+
+<!-- <img class="alignnone size-medium wp-image-664" src="http://jobregonaraujo.homelinux.net:8001/wp-content/uploads/2018/10/apple-menu-300x121.jpg" alt="" width="300" height="121" /> -->
+![apple-menu]({{site.baseurl}}/images/pages/serial/apple-menu.jpg)
+
+
+Verá el número de serie que se muestra junto con el número de modelo de su Mac, las especificaciones de hardware y la versión de macOS que ha instalado.
+
+<!-- <img class="alignnone size-medium wp-image-663" src="http://jobregonaraujo.homelinux.net:8001/wp-content/uploads/2018/10/about-this-mac-300x138.png" alt="" width="300" height="138" /> -->
+![aboutThisMac]({{site.baseurl}}/images/pages/serial/about-this-mac.png)
+
+<h4>Si tu Mac no enciende.</h4>
+El número de serie de su Mac está impreso en algún lugar de la misma Mac, por lo que podrá encontrarlo si no puede encender su Mac.
+
+Al voltear una MacBook, verá el número de serie impreso en la misma Mac, cerca del texto "Diseñado por Apple en California". En una Mac Mini, encontrarás el número de serie en la parte inferior. En el Mac Pro, lo encontrarás en el panel posterior.
+
+<!-- <img class="alignnone size-medium wp-image-665" src="http://jobregonaraujo.homelinux.net:8001/wp-content/uploads/2018/10/ser-macbook-300x88.jpg" alt="" width="300" height="88" /> -->
+![aboutThisMac]({{site.baseurl}}/images/pages/serial/ser-macbook.jpg)
+
+En un iMac es particularmente complicado porque deberás colocar el iMac sobre la pantalla para visualizar el serial impreso(ver la siguiente foto).
+
+<!-- <img class="alignnone size-medium wp-image-662" src="http://jobregonaraujo.homelinux.net:8001/wp-content/uploads/2018/10/ser-imac-300x132.jpg" alt="" width="300" height="132" /> -->
+![aboutThisMac]({{site.baseurl}}/images/pages/serial/ser-imac.jpg)
+
+Si aún tiene la caja en la que originalmente vino su Mac, busque en la caja. El número de serie está impreso en la etiqueta del código de barras en el embalaje original de su Mac.
+
+<!-- <img class="alignnone size-medium wp-image-661" src="http://jobregonaraujo.homelinux.net:8001/wp-content/uploads/2018/10/ser-caja-300x133.jpg" alt="" width="300" height="133" /> -->
+![aboutThisMac]({{site.baseurl}}/images/pages/serial/ser-caja.jpg)
+
+Existen otras formas de localizar el numero de serie de su mac , puedes obtener mas información sobre este tema directamente en la base de conocimiento de apple <a style="color: blue;" href="https://support.apple.com/es-es/HT204308" target='_blank'>HT204308</a>
+
+
+PD. Como dato adicional , solo por diversión , ya que no es practico y mucho menos necesario saber como obtener el numero de serie de tu equipo utilizanado el terminal, les dejo a continuanción el comando que pueden usar desde el terminal:
+{% highlight shell %}
+ioreg -l | grep IOPlatformSerialNumber
+{% endhighlight%}
+el resultado seria algo parecido a esto:
+{% highlight shell %}
+"IOPlatformSerialNumber" = "C241BABDLLRP8"
+{% endhighlight%}
+
+
+<!-- Literally lomo blue bottle pabst retro snackwave brooklyn taiyaki bitters. Stumptown tilde bespoke dreamcatcher enamel pin, pok pok blog drinking vinegar retro ethical mumblecore shaman venmo poke. Cliche ugh meh, wayfarers mumblecore portland skateboard crucifix ramps vaporware. Activated charcoal PBR&B tacos stumptown mumblecore pitchfork umami blog artisan church-key godard. Shabby chic meh lyft, tilde pork belly echo park +1 tote bag tofu. Cardigan taiyaki mlkshk, adaptogen squid mustache hammock post-ironic chicharrones godard pinterest gluten-free. Air plant gastropub hexagon normcore cardigan aesthetic typewriter pitchfork fashion axe coloring book jianbing leggings vaporware offal. Bushwick palo santo leggings four dollar toast truffaut gluten-free. Fashion axe lo-fi vexillologist kinfolk. Authentic sriracha affogato, tofu polaroid enamel pin poke. Blue bottle man bun fanny pack cray, PBR&B health goth man braid neutra hexagon XOXO flexitarian vinyl cliche vegan. Raclette cold-pressed fanny pack listicle, blog cronut gochujang fam whatever four loko butcher prism aesthetic quinoa. Raclette thundercats gluten-free tbh, ethical adaptogen keffiyeh fam. Swag distillery pop-up offal. Hammock kitsch chicharrones vexillologist cliche pickled, yr cronut shoreditch slow-carb pabst small batch activated charcoal enamel pin.
+
+Semiotics pickled next level, drinking vinegar tbh truffaut raclette cliche four loko thundercats master cleanse kombucha deep v. Enamel pin authentic sartorial, bitters paleo taiyaki vegan salvia. Sriracha knausgaard deep v, irony ramps hammock YOLO raclette. Trust fund photo booth tumblr, helvetica four loko literally chicharrones beard yr. Cronut PBR&B XOXO palo santo tbh craft beer, crucifix tumblr. Drinking vinegar enamel pin vinyl deep v, quinoa butcher meh bicycle rights. Jianbing neutra iceland salvia ennui. Poutine live-edge cronut cliche knausgaard four dollar toast actually. Roof party polaroid pinterest occupy, kitsch YOLO mixtape hoodie tattooed small batch plaid kinfolk. Celiac deep v gastropub waistcoat post-ironic shoreditch mumblecore 8-bit church-key. Try-hard PBR&B aesthetic quinoa, trust fund lomo poke. Roof party portland biodiesel twee meditation gluten-free meggings la croix pug four dollar toast bushwick lumbersexual man bun green juice keytar.
+
+### You need a little dummy text
+
+1. Wayfarers air plant tousled gluten-free synth.
+2. Tumeric taxidermy iPhone, thundercats lo-fi you.
+3. Heard of them deep v art party raclette irony cred vegan tattooed.
+4. Migas four loko tumblr literally subway tile occupy vape.
+5. Fixie copper mug beard, scenester normcore vape.
+
+Humblebrag sartorial copper mug offal yr crucifix. Hexagon thundercats kinfolk waistcoat, snackwave trust fund subway tile master cleanse green juice drinking vinegar lyft pour-over everyday carry aesthetic meditation. Gochujang jean shorts plaid vinyl man braid. Hell of YOLO quinoa kombucha ethical. Lomo pork belly kale chips cronut put a bird on it tote bag distillery lyft shabby chic listicle. Tumblr letterpress cray, pinterest pickled humblebrag slow-carb fanny pack gentrify schlitz.
+
+Pop-up aesthetic portland prism salvia unicorn art party leggings heirloom whatever. Selvage poke squid franzen man bun tote bag food truck actually beard pickled sriracha iPhone crucifix copper mug knausgaard. Fixie copper mug beard, scenester normcore vape vaporware ennui art party farm-to-table humblebrag poutine. Food truck pickled gastropub, artisan sriracha lo-fi cold-pressed shabby chic.
+
+Hell of letterpress gentrify single-origin coffee pork belly. Vinyl authentic meggings coloring book, cray twee locavore flannel cronut everyday carry listicle small batch thundercats. 3 wolf moon before they sold out brunch selvage. Glossier gluten-free bushwick art party slow-carb cronut taiyaki try-hard street art subway tile yr iPhone echo park aesthetic.
+
+![Forest]({{site.baseurl}}/images/pages/18.jpg)
+
+Prism blog everyday carry, post-ironic ennui readymade bushwick hell of wayfarers offal af XOXO mlkshk shoreditch. Pitchfork echo park irony butcher whatever direct trade aesthetic chartreuse enamel pin deep v pop-up distillery. Listicle occupy next level, forage farm-to-table raw denim edison bulb polaroid. Yuccie aesthetic direct trade schlitz hella taiyaki celiac marfa 8-bit organic +1 fam humblebrag tilde. Messenger bag tacos etsy chillwave kitsch man braid DIY helvetica yr tote bag blog food truck. Swag bitters celiac, DIY freegan polaroid chia farm-to-table shabby chic +1 beard prism blue bottle master cleanse. Air plant pop-up brooklyn pug, kombucha chambray pinterest narwhal plaid yuccie flexitarian +1 quinoa single-origin coffee squid. Vice pabst pop-up ugh, pug af hoodie viral intelligentsia brunch succulents biodiesel. Kitsch enamel pin bespoke pop-up master cleanse cold-pressed af letterpress flannel jean shorts crucifix tattooed schlitz franzen glossier. Messenger bag freegan YOLO asymmetrical poutine deep v coloring book, banh mi lo-fi portland venmo migas 8-bit.
+
+Bushwick try-hard occupy crucifix before they sold out craft beer. Mixtape brooklyn roof party tilde vape. Intelligentsia normcore man bun, single-origin coffee cliche woke next level try-hard poke. Kombucha green juice single-origin coffee, pabst chillwave flexitarian kitsch tacos etsy semiotics organic tbh bushwick seitan. Small batch meggings 8-bit, taxidermy affogato skateboard live-edge butcher cray.
+> Subway tile leggings intelligentsia synth chartreuse cloud bread freegan live-edge single-origin coffee cardigan helvetica mlkshk vegan. Craft beer truffaut affogato, photo booth vape yr williamsburg ethical butcher bushwick cornhole.
+
+Squid hammock mumblecore fanny pack photo booth cred, meditation next level plaid brooklyn butcher chambray.
+Bushwick tattooed blue bottle, lumbersexual fashion axe echo park thundercats hexagon kickstarter flannel iPhone selfies swag. Polaroid chillwave brunch, snackwave deep v knausgaard four dollar toast austin shaman. Meh authentic tumblr microdosing hammock crucifix man braid adaptogen. Leggings subway tile godard meggings, glossier church-key sriracha air plant lyft fanny pack portland franzen tofu.
+
+YOLO live-edge marfa, cardigan hot chicken hella unicorn raclette try-hard bushwick twee hoodie. Gochujang taxidermy williamsburg bespoke forage prism, biodiesel sriracha disrupt before they sold out portland schlitz kitsch freegan kale chips. Typewriter raw denim cronut, hexagon actually brooklyn chicharrones dreamcatcher tacos. Bespoke bitters +1, wayfarers flexitarian tumeric chambray 8-bit cold-pressed try-hard street art pug. Crucifix +1 shabby chic chicharrones pop-up prism williamsburg heirloom shoreditch mustache sustainable four dollar toast kickstarter. Thundercats four dollar toast drinking vinegar bitters. +1 mustache tattooed kitsch, hammock swag actually edison bulb chambray. Quinoa jean shorts vape, celiac fanny pack helvetica you probably haven't heard of them small batch cliche post-ironic kitsch put a bird on it irony. XOXO cray taxidermy microdosing, +1 woke vice flexitarian beard pug vegan. Flannel health goth swag tofu distillery skateboard. Mlkshk single-origin coffee you probably haven't heard of them vaporware. Actually mixtape synth, lyft raw denim swag vegan lumbersexual VHS enamel pin truffaut kinfolk photo booth banh mi waistcoat.
+
+Skateboard butcher hexagon fashion axe bicycle rights scenester direct trade glossier drinking vinegar edison bulb leggings bitters marfa cred. Squid kinfolk YOLO copper mug locavore tattooed, authentic flannel normcore kogi gluten-free. Bushwick pickled helvetica chicharrones pop-up wolf, activated charcoal lumbersexual bespoke farm-to-table ethical semiotics tbh. Gentrify 8-bit live-edge, artisan man braid mustache cliche vice. Banh mi small batch yr meditation organic, cronut fashion axe. Forage plaid helvetica post-ironic hella. Raw denim edison bulb live-edge austin. Four loko schlitz locavore, prism photo booth polaroid typewriter iceland hexagon squid authentic aesthetic shabby chic jean shorts hell of. Asymmetrical twee subway tile yr prism kale chips hexagon coloring book. Lumbersexual snackwave ethical mustache aesthetic, put a bird on it williamsburg mlkshk la croix shabby chic. -->
