@@ -5,7 +5,7 @@ date: 2023-07-23 15:43:29 -0400
 img: how-to-find-the-serial-number-on-a-mac.jpg
 tags: MAC
 ---
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+<!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous"> -->
 El número de serie de su Mac es un identificador único que distingue a su Mac de todas los demás. Deberá proporcionar el número de serie de su Mac cuando solicite un servicio.
 
 La forma más fácil de encontrar su número de serie dependerá de si la misma enciende o no. Si su Mac enciende(y puedes acceder a la interfaz gráfica), puede encontrar el número de serie de forma muy sencilla desde la interfaz del usuario. Si no se enciende, deberá encontrarlo (físicamente) en la mac o en el embalaje original.
