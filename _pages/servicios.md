@@ -13,6 +13,10 @@ image: servicios.jpg
 <th>Precio </th>
 </tr>
 <tr>
+<td>Revisión , Evaluación y Diagnostico  en tienda</td>
+<td>Gratis</td>
+</tr>
+<tr>
 <td>Instalación de Software (MS Office - Adobe - Autodesk - etc.) </td>
 <td>${{ site.price-default }} </td>
 </tr>
