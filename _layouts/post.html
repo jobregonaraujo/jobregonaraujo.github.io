@@ -3,16 +3,18 @@ layout: default
 ---
 
 <div class="post-header" style="background: url({{"/images/pages/" | prepend: site.baseurl | append : page.img}})">
-  <div class="post-header-info">
+  <div class="post-header-info" style="display: none">
     <h1 class="post-title" style="background-color: rgba(102, 172, 255, .8)">{{ page.title | escape }}</h1>
-    <div class="post-meta" style="background-color: rgba(102, 172, 255, .8)">
-      <time datetime="{{ page.date | date_to_xmlschema }}">
+    <div class="post-meta" >
+      <time style="background-color: rgba(102, 172, 255, .8)" datetime="{{ page.date | date_to_xmlschema }}">
         {% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %} {{ page.date | date: date_format }}
       </time>
     </div>
   </div>
 </div>
-
+<div class="post-header-info" style="margin: auto;">
+  <h1 class="post-title" style="text-align: center; color: #4b6493;">{{ page.title | escape }}</h1>
+</div>
 <div class="content-box">
   <article class="post">
 
