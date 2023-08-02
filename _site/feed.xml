@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-30T19:39:24-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Javier Obregón</title><subtitle>Asistencia Tecnica Apple</subtitle><entry><title type="html">Equipos Compatibles con Sonoma macOS 14</title><link href="http://localhost:4000/2023/07/29/equipos-compatibles-con-sonoma-macos-14/" rel="alternate" type="text/html" title="Equipos Compatibles con Sonoma macOS 14" /><published>2023-07-29T08:30:50-04:00</published><updated>2023-07-29T08:30:50-04:00</updated><id>http://localhost:4000/2023/07/29/equipos-compatibles-con-sonoma-macos-14</id><content type="html" xml:base="http://localhost:4000/2023/07/29/equipos-compatibles-con-sonoma-macos-14/"><![CDATA[<p>El pasado 5 de Junio Apple anuncio, entre otras cosas, sus próximos Sistemas Operativos, incluyendo el macOS 14 , al que bautizo “macOS Sonoma”,  con novedades como: widgets interactivos, experiencia de videollamadas mejorada y nuevos salvapantallas entre otras, ahora vamos a dar un vistazo a los equipos en los que se podría instalar y disfrutar de todas estas :</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-08-01T20:54:08-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Javier Obregón</title><subtitle>Asistencia Tecnica Apple</subtitle><entry><title type="html">Equipos Compatibles con Sonoma macOS 14</title><link href="http://localhost:4000/2023/07/29/equipos-compatibles-con-sonoma-macos-14/" rel="alternate" type="text/html" title="Equipos Compatibles con Sonoma macOS 14" /><published>2023-07-29T08:30:50-04:00</published><updated>2023-07-29T08:30:50-04:00</updated><id>http://localhost:4000/2023/07/29/equipos-compatibles-con-sonoma-macos-14</id><content type="html" xml:base="http://localhost:4000/2023/07/29/equipos-compatibles-con-sonoma-macos-14/"><![CDATA[<p>El pasado 5 de Junio Apple anuncio, entre otras cosas, sus próximos Sistemas Operativos, incluyendo el macOS 14 , al que bautizo “macOS Sonoma”,  con novedades como: widgets interactivos, experiencia de videollamadas mejorada y nuevos salvapantallas entre otras, ahora vamos a dar un vistazo a los equipos en los que se podría instalar y disfrutar de todas estas :</p>
 
 <p><img src="/images/sonomacompatible/SonomaCompatibleChart.png" alt="Sonoma" /></p>
 
@@ -15,7 +15,7 @@
 
 <hr />
 
-<p>A modo de comparación, estas son las Mac en las que actualmente se puede disfrutar del Sistema Operativo  macOS Ventura (macOS 13):</p>
+<p>A modo de comparación, macOS Ventura (macOS 14), estuvo disponible para descargar desde el 24 de Octubre del 2022, y estas son las Mac en las que se puede instalar el Sistema Operativo macOS Ventura :</p>
 
 <p><img src="/images/sonomacompatible/venturaLogo.png" alt="Ventura" /></p>
 
@@ -28,7 +28,154 @@
   <li>Mac Pro 2019 en adelante</li>
   <li>Mac mini 2018 en adelante</li>
   <li>MacBook 2017 en adelante</li>
-</ul>]]></content><author><name></name></author><category term="MAC" /><summary type="html"><![CDATA[El pasado 5 de Junio Apple anuncio, entre otras cosas, sus próximos Sistemas Operativos, incluyendo el macOS 14 , al que bautizo “macOS Sonoma”, con novedades como: widgets interactivos, experiencia de videollamadas mejorada y nuevos salvapantallas entre otras, ahora vamos a dar un vistazo a los equipos en los que se podría instalar y disfrutar de todas estas :]]></summary></entry><entry><title type="html">Como localizar el numero de serie de tu mac</title><link href="http://localhost:4000/2023/07/23/como-localizar-el-numero-de-serie-de-tu-mac/" rel="alternate" type="text/html" title="Como localizar el numero de serie de tu mac" /><published>2023-07-23T15:43:29-04:00</published><updated>2023-07-23T15:43:29-04:00</updated><id>http://localhost:4000/2023/07/23/como-localizar-el-numero-de-serie-de-tu-mac</id><content type="html" xml:base="http://localhost:4000/2023/07/23/como-localizar-el-numero-de-serie-de-tu-mac/"><![CDATA[<p>El número de serie de su Mac es un identificador único que distingue a su Mac de todas los demás. Deberá proporcionar el número de serie de su Mac cuando solicite un servicio.</p>
+</ul>
+
+<hr />
+
+<p>Por su parte macOS Monterey (macOS 13), estuvo disponible para descargar desde el 15 de Octubre del 2021, y estas son las Mac en las que se puede instalar el Sistema Operativo macOS Monterey :</p>
+
+<p><img src="/images/sonomacompatible/Monterey.jpg" alt="Monterey" /></p>
+
+<ul>
+  <li>MacBook modelos desde early 2016 en adelante</li>
+  <li>MacBook Air modelos desde early 2015 en adelante</li>
+  <li>MacBook Pro modelos desde early 2015 en adelante</li>
+  <li>Mac mini modelos desde 2014 en adelante</li>
+  <li>iMac desde 2015 en adelante</li>
+  <li>iMac Pro (2017 en adelante)</li>
+  <li>Mac Pro modelos desde late 2013 en adelante</li>
+  <li>Mac Studio</li>
+</ul>
+
+<hr />
+
+<p>Por su parte macOS Big Sur (macOS 12), estuvo disponible para descargar desde el 12 de Noviembre del 2020, y estas son las Mac en las que se puede instalar el Sistema Operativo macOS Big Sur :</p>
+
+<p><img src="/images/sonomacompatible/mac-os-big-sur.jpg" alt="BigSur" /></p>
+
+<ul>
+  <li>MacBook modelos desde early 2015 en adelante</li>
+  <li>MacBook Air modelos desde 2013 en adelante</li>
+  <li>MacBook Pro modelos desde 2013 en adelante</li>
+  <li>Mac mini modelos desde 2014 en adelante</li>
+  <li>iMac desde 2014 en adelante</li>
+  <li>iMac Pro (todos modelos)</li>
+  <li>Mac Pro modelos desde 2013 y 2019</li>
+</ul>
+
+<hr />
+
+<p>Por su parte macOS Catalina (macOS 10.15), estuvo disponible para descargar desde Octubre del 2019, la ultima versión es la 10.15.7 con Security Update 2022-05, y estas son las Mac en las que se puede instalar el Sistema Operativo macOS Catalina :</p>
+
+<ul>
+  <li>MacBook (2015 hasta 2017)</li>
+  <li>MacBook Air (Mid-2012 hasta 2019)</li>
+  <li>MacBook Pro (Mid-2012 hasta 2019)</li>
+  <li>Mac mini (Late 2012 hasta late-2018)</li>
+  <li>iMac (Late 2012 hasta 2019)</li>
+  <li>iMac Pro (todos modelos)</li>
+  <li>Mac Pro modelos desde 2013</li>
+</ul>
+
+<p>Nota Importante: En los equipos con AppleSilicon M1,etc no se puede instalar Catalina o ningun Sistema Operativo anterior a macOS Big Sur!!</p>
+
+<hr />
+
+<p>Por su parte macOS Mojave (macOS 10.14), estuvo disponible para descargar desde Septiembre del 2018, la ultima versión es la 10.14.6, y estas son las Mac en las que se puede instalar el Sistema Operativo macOS Mojave :</p>
+
+<ul>
+  <li>MacBook (Early 2015 hasta 2017)</li>
+  <li>MacBook Air (Mid 2012 hasta 2017, porque es la misma 2015)</li>
+  <li>MacBook Pro (Mid 2012 hasta 2018)</li>
+  <li>Mac mini (Late 2012 hasta late-2018)</li>
+  <li>iMac (Late 2012 hasta mid-2017)</li>
+  <li>iMac Pro (todos modelos)</li>
+  <li>Mac Pro (Late 2013,  mid-2010 y mid-2012 modelos con Metal-capable GPU)</li>
+</ul>
+
+<hr />
+
+<p>Por su parte macOS High Sierra (macOS 10.13), estuvo disponible para descargar desde Septiembre del 2017, la ultima versión es la 10.13.6 y estas son las Mac en las que se puede instalar el Sistema Operativo macOS High Sierra :</p>
+
+<ul>
+  <li>MacBook (Late 2009 hasta 2017)</li>
+  <li>MacBook Air (Late 2010 hasta 2017, porque es la misma 2015)</li>
+  <li>MacBook Pro (Mid 2010 hasta 2017)</li>
+  <li>Mac mini (Mid 2010 hasta 2014)</li>
+  <li>iMac (Late 2009 hasta mid-2017)</li>
+  <li>Mac Pro (Mid 2010 y 2013)</li>
+</ul>
+
+<hr />
+
+<p>Por su parte macOS Sierra (macOS 10.12), estuvo disponible para descargar desde Septiembre del 2016, la ultima versión es la 10.12.6, y estas son las Mac en las que se puede instalar el Sistema Operativo macOS Sierra :</p>
+
+<ul>
+  <li>MacBook (Late 2009 hasta 2017)</li>
+  <li>MacBook Air (Late 2010 hasta 2017, porque es la misma 2015)</li>
+  <li>MacBook Pro (Mid 2010 hasta 2015)</li>
+  <li>Mac mini (Mid 2010 hasta 2014)</li>
+  <li>iMac (Late 2009 hasta 2015)</li>
+  <li>Mac Pro (Mid 2010 y 2013)</li>
+</ul>
+
+<hr />
+
+<p>Por su parte OS X El Capitan (OS X 10.11), estuvo disponible para descargar desde Septiembre del 2015, la ultima versión es la 10.11.6, y estas son las Mac en las que se puede instalar el Sistema Operativo OS X Capitan :</p>
+
+<ul>
+  <li>MacBook (Early 2015 hasta 2017)</li>
+  <li>MacBook (Late 2008 hasta 2010)</li>
+  <li>MacBook Air (Late 2008 hasta early 2015)</li>
+  <li>MacBook Pro (Mid/Late 2007 hasta early 2015)</li>
+  <li>Mac mini (Early 2009 hasta 2014)</li>
+  <li>iMac (Mid 2007 hasta mid-2015)</li>
+  <li>Mac Pro (2008, 2010, 2013)</li>
+</ul>
+
+<hr />
+
+<p>Por su parte OS X Yosemite (OS X 10.10), estuvo disponible para descargar desde Octubre del 2014, la ultima versión es la 10.10.5 y estas son las Mac en las que se puede instalar el Sistema Operativo OS X Yosemite :</p>
+
+<ul>
+  <li>MacBook (Late 2008 hasta 2010)</li>
+  <li>MacBook Air (Late 2008 hasta mid 2013)</li>
+  <li>MacBook Pro (13″ Mid-2009 hasta mid 2014)</li>
+  <li>MacBook Pro (15″ Mid/Late 2007 hasta mid 2014)</li>
+  <li>MacBook Pro (17″ Late 2007 hasta 2011)</li>
+  <li>Mac mini (Early 2009 hasta 2012)</li>
+  <li>iMac (Mid-2007 hasta mid-2014)</li>
+  <li>Mac Pro (2008 y 2010)</li>
+</ul>
+
+<hr />
+
+<p>Por su parte OS X Mavericks (OS X 10.9), estuvo disponible para descargar desde Octubre del 2013, este año se comenzó a nombrar los sistemas con sitios emblemáticos de California, la ultima versión es la 10.9.5 y estas son las Mac en las que se puede instalar el Sistema Operativo OS X Mavericks :</p>
+
+<ul>
+  <li>MacBook (Late 2008 hasta 2010)</li>
+  <li>MacBook Air (Late 2008 hasta mid 2013)</li>
+  <li>MacBook Pro (Mid 2007 hasta early 2013)</li>
+  <li>Xserve (Early 2009)</li>
+  <li>Mac mini (Early 2009 hasta 2012)</li>
+  <li>iMac (Mid 2007 hasta early 2013)</li>
+  <li>Mac Pro (Early 2008 y 2010)</li>
+</ul>
+
+<hr />
+
+<p>Por su parte OS X Mountain Lion (OS X 10.8), estuvo disponible para descargar desde Julio del 2012, este es el ultimo de los felinos , la ultima versión es la 10.8.5, y estas son las Mac en las que se puede instalar el Sistema Operativo OS X Mountain Lion :</p>
+
+<ul>
+  <li>MacBook (Late 2008 hasta 2010)</li>
+  <li>MacBook Air (Late 2008 hasta mid 2012)</li>
+  <li>MacBook Pro (Mid/Late 2007 hasta mid-2012)</li>
+  <li>Mac mini (Early 2009 hasta 2011)</li>
+  <li>iMac (Mid-2007 hasta 2011)</li>
+  <li>Mac Pro (Early 2008 y 2010)</li>
+</ul>
+
+<p>Suficiente por los momentos !!!</p>]]></content><author><name></name></author><category term="MAC" /><summary type="html"><![CDATA[El pasado 5 de Junio Apple anuncio, entre otras cosas, sus próximos Sistemas Operativos, incluyendo el macOS 14 , al que bautizo “macOS Sonoma”, con novedades como: widgets interactivos, experiencia de videollamadas mejorada y nuevos salvapantallas entre otras, ahora vamos a dar un vistazo a los equipos en los que se podría instalar y disfrutar de todas estas :]]></summary></entry><entry><title type="html">Como localizar el numero de serie de tu mac</title><link href="http://localhost:4000/2023/07/23/como-localizar-el-numero-de-serie-de-tu-mac/" rel="alternate" type="text/html" title="Como localizar el numero de serie de tu mac" /><published>2023-07-23T15:43:29-04:00</published><updated>2023-07-23T15:43:29-04:00</updated><id>http://localhost:4000/2023/07/23/como-localizar-el-numero-de-serie-de-tu-mac</id><content type="html" xml:base="http://localhost:4000/2023/07/23/como-localizar-el-numero-de-serie-de-tu-mac/"><![CDATA[<p>El número de serie de su Mac es un identificador único que distingue a su Mac de todas los demás. Deberá proporcionar el número de serie de su Mac cuando solicite un servicio.</p>
 
 <p>La forma más fácil de encontrar su número de serie dependerá de si la misma enciende o no. Si su Mac enciende(y puedes acceder a la interfaz gráfica), puede encontrar el número de serie de forma muy sencilla desde la interfaz del usuario. Si no se enciende, deberá encontrarlo (físicamente) en la mac o en el embalaje original.</p>
 <h4>Si tu Mac enciende.</h4>
