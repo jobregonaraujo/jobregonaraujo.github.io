@@ -5,7 +5,7 @@ date: 2023-07-23 13:49:27 -0400
 img: teamviewer.jpg
 tags: [PC]
 ---
-A continuación te mostrare la manera mas sencilla de disfrutar de uno de nuestros servicios de valor agregado, utilizaremos una aplicación gratuita pero muy poderosa (en su versión mas sencilla) en el ámbito de el acceso remoto a sistemas informáticos, lo utilizaremos para poder ofrecer el servicio de asistencia remota.
+A continuación te mostrare la manera mas sencilla de disfrutar de nuestro servicio de asistencia remota, utilizaremos una aplicación gratuita pero muy poderosa (en su versión mas sencilla) en el ámbito de el acceso remoto a sistemas informáticos, lo utilizaremos para poder ofrecer el servicio de asistencia remota.
 
 Antes de comenzar es importante saber que no hay ningún riesgo en el uso de esta aplicación. La usaremos en la forma mas segura posible , claves aleatorias, lo que obliga al usuario a estar frente al equipo cada vez que inicie una conexión remota.
 
@@ -15,7 +15,7 @@ El proceso es muy sencillo, solo debemos descargar la aplicación compatible con
 </ul>
 
 
-Los usuarios de sistemas Windows deberán descargar el archivo ejecutable del link debidamente indicado anteriormente, luego hacer click sobre el mismo, recibirán una advertencia del sistema preguntando si desean que el programa "realice cambios en el equipo" a lo cual haremos click en si (no se preocupe que en realidad no habrán cambios en el equipo, solo los necesarios para permitir la asistencia remota), luego el programa abrirá y verán una ventana en la que (puede tardar un poco) se mostrar el ID y una contraseña generada automáticamente que sera necesaria para comenzar la asistencia remota.
+Los usuarios de sistemas Windows deberán descargar el archivo ejecutable del link debidamente indicado anteriormente, luego hacer doble click sobre el mismo, recibirán una advertencia del sistema preguntando si desean que el programa "realice cambios en el equipo" a lo cual haremos click en si (no se preocupe que en realidad no habrán cambios sustanciales en el equipo, solo los necesarios para permitir la asistencia remota), luego el programa abrirá y verán una ventana en la que (puede tardar un poco) se mostrar el ID y una contraseña generada automáticamente que sera necesaria para comenzar la asistencia remota.
 
 
 
