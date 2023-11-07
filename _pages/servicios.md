@@ -49,6 +49,10 @@ image: servicios.jpg
 <td>Gratis</td>
 </tr>
 <tr>
+<td>Visita Tecnica</td>
+<td>${{ site.price-default }} </td>
+</tr>
+<tr>
 <td>Actualización , instalación y configuración de hardware para equipos MAC y PC.</td>
 <td>${{ site.price-default }} </td>
 </tr>
