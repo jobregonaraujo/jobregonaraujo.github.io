@@ -9,6 +9,9 @@ hero: 112.jpg
 hero-title: Javier Obregón
 hero-description: Reparación Apple <i class="fa fa-apple"></i> | Linux <i class="fa fa-linux"></i> | Windows <i class="fa fa-windows"></i> y mas ...
 
+#Anydesk Links
+anydeskpc: https://download.teamviewer.com/download/TeamViewerQS.dmg
+anydeskmac: https://download.anydesk.com/anydesk.dmg
 
 #Price Of Services
 price-default: 70
