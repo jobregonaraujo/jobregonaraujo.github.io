@@ -14,8 +14,9 @@ anydeskpc: https://download.teamviewer.com/download/TeamViewerQS.dmg
 anydeskmac: https://download.anydesk.com/anydesk.dmg
 
 #Price Of Services
-price-default: 70
+price-default: 80
 price-bootcamp: 100
+price-visita: 100
 
 # Author - Creator
 author-name: Javier Obregón

@@ -50,7 +50,7 @@ image: servicios.jpg
 </tr>
 <tr>
 <td>Visita Tecnica</td>
-<td>${{ site.price-default }} </td>
+<td>${{ site.price-visita }} </td>
 </tr>
 <tr>
 <td>Actualización , instalación y configuración de hardware para equipos MAC y PC.</td>
