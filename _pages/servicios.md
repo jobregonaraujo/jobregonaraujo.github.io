@@ -11,8 +11,8 @@ image: servicios.jpg
 <tr><th style='width:85%'>Plan de Servicio  1 ( 1 - 4 equipos)</th><th></th></tr>
 <tr><td>Visitas mensuales Programadas</td><td style='text-align:center'>1</td></tr>
 <tr><td>Visitas Ocasionales por requerimiento del cliente</td><td style='text-align:center'>2</td></tr>
-<tr><td>Servicio Remoto segun disponibilidad</td><td></td></tr>
-<tr><td>Atencion telefonica segun disponibilidad</td><td></td></tr>
+<tr><td>Servicio Remoto según disponibilidad</td><td></td></tr>
+<tr><td>Atención telefónica según disponibilidad</td><td></td></tr>
 <tr><td></td><td></td></tr>
 <tr><td style='text-align:right'>Costo Mensual</td><td>$150 + IVA</td></tr>
 </table>
@@ -23,8 +23,8 @@ image: servicios.jpg
 <tr><th style='width:85%'>Plan de Servicio  2 ( 5 - 10 equipos)</th><th></th></tr>
 <tr><td>Visitas mensuales Programadas</td><td style='text-align:center'>2</td></tr>
 <tr><td>Visitas Ocasionales por requerimiento del cliente</td><td style='text-align:center'>2</td></tr>
-<tr><td>Servicio Remoto segun disponibilidad</td><td></td></tr>
-<tr><td>Atencion telefonica segun disponibilidad</td><td></td></tr>
+<tr><td>Servicio Remoto según disponibilidad</td><td></td></tr>
+<tr><td>Atención telefónica según disponibilidad</td><td></td></tr>
 <tr><td></td><td></td></tr>
 <tr><td style='text-align:right'>Costo Mensual</td><td>$200 + IVA</td></tr>
 </table>
@@ -35,8 +35,8 @@ image: servicios.jpg
 <tr><th style='width:85%'>Plan de Servicio  3 ( 11 - 20 equipos)</th><th></th></tr>
 <tr><td>Visitas mensuales Programadas</td><td style='text-align:center'>2</td></tr>
 <tr><td>Visitas Ocasionales por requerimiento del cliente</td><td style='text-align:center'>3</td></tr>
-<tr><td>Servicio Remoto segun disponibilidad</td><td></td></tr>
-<tr><td>Atencion telefonica segun disponibilidad</td><td></td></tr>
+<tr><td>Servicio Remoto según disponibilidad</td><td></td></tr>
+<tr><td>Atención telefónica según disponibilidad</td><td></td></tr>
 <tr><td></td><td></td></tr>
 <tr><td style='text-align:right'>Costo Mensual</td><td>$250 + IVA</td></tr>
 </table>
@@ -47,8 +47,8 @@ image: servicios.jpg
 <tr><th style='width:85%'>Plan de Servicio  4 ( 21 - 30 equipos)</th><th></th></tr>
 <tr><td>Visitas mensuales Programadas</td><td style='text-align:center'>4</td></tr>
 <tr><td>Visitas Ocasionales por requerimiento del cliente</td><td style='text-align:center'>6</td></tr>
-<tr><td>Servicio Remoto segun disponibilidad</td><td></td></tr>
-<tr><td>Atencion telefonica segun disponibilidad</td><td></td></tr>
+<tr><td>Servicio Remoto según disponibilidad</td><td></td></tr>
+<tr><td>Atención telefónica según disponibilidad</td><td></td></tr>
 <tr><td></td><td></td></tr>
 <tr><td style='text-align:right'>Costo Mensual</td><td>$350 + IVA</td></tr>
 </table>
@@ -70,7 +70,7 @@ image: servicios.jpg
 <td>${{ site.price-default }} </td>
 </tr>
 <tr>
-<td>Instalación, actualizacíon y configuración de Sistemas Operativos (MAC , PC, LINUX)</td>
+<td>Instalación, actualización y configuración de Sistemas Operativos (MAC , PC, LINUX)</td>
 <td>${{ site.price-default }} </td>
 </tr>
 <tr>
@@ -82,7 +82,7 @@ image: servicios.jpg
 <td>${{ site.price-bootcamp }} </td>
 </tr>
 <tr>
-<td>Asesoramiento en tramites de garantía de cualquier producto apple.</td>
+<td>Asesoramiento en trámites de garantía de cualquier producto apple.</td>
 <td>Gratis</td>
 </tr>
 <tr>
