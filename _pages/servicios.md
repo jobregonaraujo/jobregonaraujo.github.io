@@ -8,6 +8,55 @@ image: servicios.jpg
 
 <p>A continuación enumeraremos algunos de los servicios que podemos brindarle, a usted y a su empresa, lo invitamos a contactarnos para aclarar dudas o preguntar por algún servicio que no este listado.</p>
 <table>
+<tr><th style='width:85%'>Plan de Servicio  1 ( 1 - 4 equipos)</th><th></th></tr>
+<tr><td>Visitas mensuales Programadas</td><td style='text-align:center'>1</td></tr>
+<tr><td>Visitas Ocasionales por requerimiento del cliente</td><td style='text-align:center'>2</td></tr>
+<tr><td>Servicio Remoto segun disponibilidad</td><td></td></tr>
+<tr><td>Atencion telefonica segun disponibilidad</td><td></td></tr>
+<tr><td></td><td></td></tr>
+<tr><td style='text-align:right'>Costo Mensual</td><td>$150 + IVA</td></tr>
+</table>
+
+<br>
+
+<table>
+<tr><th style='width:85%'>Plan de Servicio  2 ( 5 - 10 equipos)</th><th></th></tr>
+<tr><td>Visitas mensuales Programadas</td><td style='text-align:center'>2</td></tr>
+<tr><td>Visitas Ocasionales por requerimiento del cliente</td><td style='text-align:center'>2</td></tr>
+<tr><td>Servicio Remoto segun disponibilidad</td><td></td></tr>
+<tr><td>Atencion telefonica segun disponibilidad</td><td></td></tr>
+<tr><td></td><td></td></tr>
+<tr><td style='text-align:right'>Costo Mensual</td><td>$200 + IVA</td></tr>
+</table>
+
+<br>
+
+<table>
+<tr><th style='width:85%'>Plan de Servicio  3 ( 11 - 20 equipos)</th><th></th></tr>
+<tr><td>Visitas mensuales Programadas</td><td style='text-align:center'>2</td></tr>
+<tr><td>Visitas Ocasionales por requerimiento del cliente</td><td style='text-align:center'>3</td></tr>
+<tr><td>Servicio Remoto segun disponibilidad</td><td></td></tr>
+<tr><td>Atencion telefonica segun disponibilidad</td><td></td></tr>
+<tr><td></td><td></td></tr>
+<tr><td style='text-align:right'>Costo Mensual</td><td>$250 + IVA</td></tr>
+</table>
+
+<br>
+
+<table>
+<tr><th style='width:85%'>Plan de Servicio  4 ( 21 - 30 equipos)</th><th></th></tr>
+<tr><td>Visitas mensuales Programadas</td><td style='text-align:center'>4</td></tr>
+<tr><td>Visitas Ocasionales por requerimiento del cliente</td><td style='text-align:center'>6</td></tr>
+<tr><td>Servicio Remoto segun disponibilidad</td><td></td></tr>
+<tr><td>Atencion telefonica segun disponibilidad</td><td></td></tr>
+<tr><td></td><td></td></tr>
+<tr><td style='text-align:right'>Costo Mensual</td><td>$350 + IVA</td></tr>
+</table>
+
+<br>
+
+
+<table>
 <tr>
 <th style='width:85%'>Servicio </th>
 <th>Precio </th>
