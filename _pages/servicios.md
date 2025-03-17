@@ -75,6 +75,7 @@ image: servicios.jpg
 <tr><td>Actualización , instalación y configuración de hardware para equipos MAC y PC.</td><td>${{ site.price-default }} </td></tr>
 <tr><td>Servicio de asistencia remota.(teamviewer)</td><td>${{ site.price-default }} </td></tr>
 </table>
+<p>* El pago de la mensualidad se realizará los primeros 5 días de cada mes</p>
 <!--  <p>* Los costos en bolivares no incluyen IVA </p> -->
 
 
