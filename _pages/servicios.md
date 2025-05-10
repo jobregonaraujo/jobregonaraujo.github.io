@@ -26,6 +26,7 @@ image: servicios.jpg
 <tr><td>Visitas Ocasionales por requerimiento del cliente</td><td style='text-align:center'>2</td></tr>
 <tr><td>Servicio Remoto según disponibilidad</td><td></td></tr>
 <tr><td>Atención telefónica según disponibilidad</td><td></td></tr>
+<tr><td>Configuracion VPN (acceso seguro a recursos servidor ) hasta 5 equipos</td><td></td></tr>
 <tr><td></td><td></td></tr>
 <tr><td style='text-align:right'>Costo Mensual</td><td>$200 + IVA</td></tr>
 <tr><td>Visita Técnica adicional $60 c/u</td></tr>
@@ -39,6 +40,7 @@ image: servicios.jpg
 <tr><td>Visitas Ocasionales por requerimiento del cliente</td><td style='text-align:center'>3</td></tr>
 <tr><td>Servicio Remoto según disponibilidad</td><td></td></tr>
 <tr><td>Atención telefónica según disponibilidad</td><td></td></tr>
+<tr><td>Configuracion VPN (acceso seguro a recursos servidor ) hasta 5 equipos</td><td></td></tr>
 <tr><td></td><td></td></tr>
 <tr><td style='text-align:right'>Costo Mensual</td><td>$250 + IVA</td></tr>
 <tr><td>Visita Técnica adicional $60 c/u</td></tr>
@@ -52,6 +54,7 @@ image: servicios.jpg
 <tr><td>Visitas Ocasionales por requerimiento del cliente</td><td style='text-align:center'>6</td></tr>
 <tr><td>Servicio Remoto según disponibilidad</td><td></td></tr>
 <tr><td>Atención telefónica según disponibilidad</td><td></td></tr>
+<tr><td>Configuracion VPN (acceso seguro a recursos servidor ) hasta 10 equipos</td><td></td></tr>
 <tr><td></td><td></td></tr>
 <tr><td style='text-align:right'>Costo Mensual</td><td>$350 + IVA</td></tr>
 <tr><td>Visita Técnica adicional $60 c/u</td></tr>

@@ -1,168 +1,192 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-14T10:13:59-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Javier Obregón</title><subtitle>Asistencia Tecnica Apple</subtitle><entry><title type="html">Equipos Compatibles con Sonoma macOS 14</title><link href="http://localhost:4000/2023/07/29/equipos-compatibles-con-sonoma-macos-14/" rel="alternate" type="text/html" title="Equipos Compatibles con Sonoma macOS 14" /><published>2023-07-29T08:30:50-04:00</published><updated>2023-07-29T08:30:50-04:00</updated><id>http://localhost:4000/2023/07/29/equipos-compatibles-con-sonoma-macos-14</id><content type="html" xml:base="http://localhost:4000/2023/07/29/equipos-compatibles-con-sonoma-macos-14/"><![CDATA[El pasado 5 de Junio Apple anuncio, entre otras cosas, sus próximos Sistemas Operativos, incluyendo el macOS 14 , al que bautizo “macOS Sonoma”,  con novedades como: widgets interactivos, experiencia de videollamadas mejorada y nuevos salvapantallas entre otras, ahora vamos a dar un vistazo a los equipos en los que se podría instalar y disfrutar de todas estas : 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-10T14:26:22-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Javier Obregón</title><subtitle>Asistencia Tecnica Apple</subtitle><entry><title type="html">Equipos Compatibles con Sonoma macOS 14</title><link href="http://localhost:4000/2023/07/29/equipos-compatibles-con-sonoma-macos-14/" rel="alternate" type="text/html" title="Equipos Compatibles con Sonoma macOS 14" /><published>2023-07-29T08:30:50-04:00</published><updated>2023-07-29T08:30:50-04:00</updated><id>http://localhost:4000/2023/07/29/equipos-compatibles-con-sonoma-macos-14</id><content type="html" xml:base="http://localhost:4000/2023/07/29/equipos-compatibles-con-sonoma-macos-14/"><![CDATA[<p>El pasado 5 de Junio Apple anuncio, entre otras cosas, sus próximos Sistemas Operativos, incluyendo el macOS 14 , al que bautizo “macOS Sonoma”,  con novedades como: widgets interactivos, experiencia de videollamadas mejorada y nuevos salvapantallas entre otras, ahora vamos a dar un vistazo a los equipos en los que se podría instalar y disfrutar de todas estas :</p>
 
-![Sonoma]({{site.baseurl}}/images/sonomacompatible/SonomaCompatibleChart.png)
+<p><img src="/images/sonomacompatible/SonomaCompatibleChart.png" alt="Sonoma" /></p>
 
-Desde:
-* iMac 2019 en adelante
-* Mac Pro 2019 en adelante
-* iMac Pro 2017
-* Mac Studio 2022 en adelante
-* MacBook Air 2018 en adelante
-* Mac mini 2018 en adelante
-* MacBook Pro 2018 en adelante
+<p>Desde:</p>
+<ul>
+  <li>iMac 2019 en adelante</li>
+  <li>Mac Pro 2019 en adelante</li>
+  <li>iMac Pro 2017</li>
+  <li>Mac Studio 2022 en adelante</li>
+  <li>MacBook Air 2018 en adelante</li>
+  <li>Mac mini 2018 en adelante</li>
+  <li>MacBook Pro 2018 en adelante</li>
+</ul>
 
-***
+<hr />
 
-A modo de comparación, macOS Ventura (macOS 14), estuvo disponible para descargar desde el 24 de Octubre del 2022, y estas son las Mac en las que se puede instalar el Sistema Operativo macOS Ventura :
+<p>A modo de comparación, macOS Ventura (macOS 14), estuvo disponible para descargar desde el 24 de Octubre del 2022, y estas son las Mac en las que se puede instalar el Sistema Operativo macOS Ventura :</p>
 
-![Ventura]({{site.baseurl}}/images/sonomacompatible/venturaLogo.png)
+<p><img src="/images/sonomacompatible/venturaLogo.png" alt="Ventura" /></p>
 
-Desde:
-* iMac 2017 en adelante
-* iMac Pro 2017
-* MacBook Air 2018 en adelante
-* MacBook Pro 2017 en adelante
-* Mac Pro 2019 en adelante
-* Mac mini 2018 en adelante
-* MacBook 2017 en adelante
+<p>Desde:</p>
+<ul>
+  <li>iMac 2017 en adelante</li>
+  <li>iMac Pro 2017</li>
+  <li>MacBook Air 2018 en adelante</li>
+  <li>MacBook Pro 2017 en adelante</li>
+  <li>Mac Pro 2019 en adelante</li>
+  <li>Mac mini 2018 en adelante</li>
+  <li>MacBook 2017 en adelante</li>
+</ul>
 
-***
+<hr />
 
-Por su parte macOS Monterey (macOS 13), estuvo disponible para descargar desde el 15 de Octubre del 2021, y estas son las Mac en las que se puede instalar el Sistema Operativo macOS Monterey :
+<p>Por su parte macOS Monterey (macOS 13), estuvo disponible para descargar desde el 15 de Octubre del 2021, y estas son las Mac en las que se puede instalar el Sistema Operativo macOS Monterey :</p>
 
-![Monterey]({{site.baseurl}}/images/sonomacompatible/Monterey.jpg)
+<p><img src="/images/sonomacompatible/Monterey.jpg" alt="Monterey" /></p>
 
-* MacBook modelos desde early 2016 en adelante 
-* MacBook Air modelos desde early 2015 en adelante 
-* MacBook Pro modelos desde early 2015 en adelante 
-* Mac mini modelos desde 2014 en adelante 
-* iMac desde 2015 en adelante 
-* iMac Pro (2017 en adelante) 
-* Mac Pro modelos desde late 2013 en adelante 
-* Mac Studio 
+<ul>
+  <li>MacBook modelos desde early 2016 en adelante</li>
+  <li>MacBook Air modelos desde early 2015 en adelante</li>
+  <li>MacBook Pro modelos desde early 2015 en adelante</li>
+  <li>Mac mini modelos desde 2014 en adelante</li>
+  <li>iMac desde 2015 en adelante</li>
+  <li>iMac Pro (2017 en adelante)</li>
+  <li>Mac Pro modelos desde late 2013 en adelante</li>
+  <li>Mac Studio</li>
+</ul>
 
-***
+<hr />
 
-Por su parte macOS Big Sur (macOS 12), estuvo disponible para descargar desde el 12 de Noviembre del 2020, y estas son las Mac en las que se puede instalar el Sistema Operativo macOS Big Sur :
+<p>Por su parte macOS Big Sur (macOS 12), estuvo disponible para descargar desde el 12 de Noviembre del 2020, y estas son las Mac en las que se puede instalar el Sistema Operativo macOS Big Sur :</p>
 
-![BigSur]({{site.baseurl}}/images/sonomacompatible/mac-os-big-sur.jpg)
+<p><img src="/images/sonomacompatible/mac-os-big-sur.jpg" alt="BigSur" /></p>
 
-* MacBook modelos desde early 2015 en adelante
-* MacBook Air modelos desde 2013 en adelante
-* MacBook Pro modelos desde 2013 en adelante
-* Mac mini modelos desde 2014 en adelante
-* iMac desde 2014 en adelante
-* iMac Pro (todos modelos) 
-* Mac Pro modelos desde 2013 y 2019 
+<ul>
+  <li>MacBook modelos desde early 2015 en adelante</li>
+  <li>MacBook Air modelos desde 2013 en adelante</li>
+  <li>MacBook Pro modelos desde 2013 en adelante</li>
+  <li>Mac mini modelos desde 2014 en adelante</li>
+  <li>iMac desde 2014 en adelante</li>
+  <li>iMac Pro (todos modelos)</li>
+  <li>Mac Pro modelos desde 2013 y 2019</li>
+</ul>
 
-***
+<hr />
 
-Por su parte macOS Catalina (macOS 10.15), estuvo disponible para descargar desde Octubre del 2019, la ultima versión es la 10.15.7 con Security Update 2022-05, y estas son las Mac en las que se puede instalar el Sistema Operativo macOS Catalina :
+<p>Por su parte macOS Catalina (macOS 10.15), estuvo disponible para descargar desde Octubre del 2019, la ultima versión es la 10.15.7 con Security Update 2022-05, y estas son las Mac en las que se puede instalar el Sistema Operativo macOS Catalina :</p>
 
-* MacBook (2015 hasta 2017) 
-* MacBook Air (Mid-2012 hasta 2019) 
-* MacBook Pro (Mid-2012 hasta 2019) 
-* Mac mini (Late 2012 hasta late-2018) 
-* iMac (Late 2012 hasta 2019) 
-* iMac Pro (todos modelos) 
-* Mac Pro modelos desde 2013 
+<ul>
+  <li>MacBook (2015 hasta 2017)</li>
+  <li>MacBook Air (Mid-2012 hasta 2019)</li>
+  <li>MacBook Pro (Mid-2012 hasta 2019)</li>
+  <li>Mac mini (Late 2012 hasta late-2018)</li>
+  <li>iMac (Late 2012 hasta 2019)</li>
+  <li>iMac Pro (todos modelos)</li>
+  <li>Mac Pro modelos desde 2013</li>
+</ul>
 
-Nota Importante: En los equipos con AppleSilicon M1,etc no se puede instalar Catalina o ningun Sistema Operativo anterior a macOS Big Sur!!
+<p>Nota Importante: En los equipos con AppleSilicon M1,etc no se puede instalar Catalina o ningun Sistema Operativo anterior a macOS Big Sur!!</p>
 
-***
+<hr />
 
-Por su parte macOS Mojave (macOS 10.14), estuvo disponible para descargar desde Septiembre del 2018, la ultima versión es la 10.14.6, y estas son las Mac en las que se puede instalar el Sistema Operativo macOS Mojave :
+<p>Por su parte macOS Mojave (macOS 10.14), estuvo disponible para descargar desde Septiembre del 2018, la ultima versión es la 10.14.6, y estas son las Mac en las que se puede instalar el Sistema Operativo macOS Mojave :</p>
 
-* MacBook (Early 2015 hasta 2017) 
-* MacBook Air (Mid 2012 hasta 2017, porque es la misma 2015) 
-* MacBook Pro (Mid 2012 hasta 2018) 
-* Mac mini (Late 2012 hasta late-2018) 
-* iMac (Late 2012 hasta mid-2017) 
-* iMac Pro (todos modelos) 
-* Mac Pro (Late 2013,  mid-2010 y mid-2012 modelos con Metal-capable GPU) 
+<ul>
+  <li>MacBook (Early 2015 hasta 2017)</li>
+  <li>MacBook Air (Mid 2012 hasta 2017, porque es la misma 2015)</li>
+  <li>MacBook Pro (Mid 2012 hasta 2018)</li>
+  <li>Mac mini (Late 2012 hasta late-2018)</li>
+  <li>iMac (Late 2012 hasta mid-2017)</li>
+  <li>iMac Pro (todos modelos)</li>
+  <li>Mac Pro (Late 2013,  mid-2010 y mid-2012 modelos con Metal-capable GPU)</li>
+</ul>
 
-***
+<hr />
 
-Por su parte macOS High Sierra (macOS 10.13), estuvo disponible para descargar desde Septiembre del 2017, la ultima versión es la 10.13.6 y estas son las Mac en las que se puede instalar el Sistema Operativo macOS High Sierra :
+<p>Por su parte macOS High Sierra (macOS 10.13), estuvo disponible para descargar desde Septiembre del 2017, la ultima versión es la 10.13.6 y estas son las Mac en las que se puede instalar el Sistema Operativo macOS High Sierra :</p>
 
-* MacBook (Late 2009 hasta 2017) 
-* MacBook Air (Late 2010 hasta 2017, porque es la misma 2015) 
-* MacBook Pro (Mid 2010 hasta 2017) 
-* Mac mini (Mid 2010 hasta 2014) 
-* iMac (Late 2009 hasta mid-2017) 
-* Mac Pro (Mid 2010 y 2013) 
+<ul>
+  <li>MacBook (Late 2009 hasta 2017)</li>
+  <li>MacBook Air (Late 2010 hasta 2017, porque es la misma 2015)</li>
+  <li>MacBook Pro (Mid 2010 hasta 2017)</li>
+  <li>Mac mini (Mid 2010 hasta 2014)</li>
+  <li>iMac (Late 2009 hasta mid-2017)</li>
+  <li>Mac Pro (Mid 2010 y 2013)</li>
+</ul>
 
-***
+<hr />
 
-Por su parte macOS Sierra (macOS 10.12), estuvo disponible para descargar desde Septiembre del 2016, la ultima versión es la 10.12.6, y estas son las Mac en las que se puede instalar el Sistema Operativo macOS Sierra :
+<p>Por su parte macOS Sierra (macOS 10.12), estuvo disponible para descargar desde Septiembre del 2016, la ultima versión es la 10.12.6, y estas son las Mac en las que se puede instalar el Sistema Operativo macOS Sierra :</p>
 
-* MacBook (Late 2009 hasta 2017) 
-* MacBook Air (Late 2010 hasta 2017, porque es la misma 2015) 
-* MacBook Pro (Mid 2010 hasta 2015) 
-* Mac mini (Mid 2010 hasta 2014) 
-* iMac (Late 2009 hasta 2015) 
-* Mac Pro (Mid 2010 y 2013) 
+<ul>
+  <li>MacBook (Late 2009 hasta 2017)</li>
+  <li>MacBook Air (Late 2010 hasta 2017, porque es la misma 2015)</li>
+  <li>MacBook Pro (Mid 2010 hasta 2015)</li>
+  <li>Mac mini (Mid 2010 hasta 2014)</li>
+  <li>iMac (Late 2009 hasta 2015)</li>
+  <li>Mac Pro (Mid 2010 y 2013)</li>
+</ul>
 
-***
+<hr />
 
-Por su parte OS X El Capitan (OS X 10.11), estuvo disponible para descargar desde Septiembre del 2015, la ultima versión es la 10.11.6, y estas son las Mac en las que se puede instalar el Sistema Operativo OS X Capitan :
+<p>Por su parte OS X El Capitan (OS X 10.11), estuvo disponible para descargar desde Septiembre del 2015, la ultima versión es la 10.11.6, y estas son las Mac en las que se puede instalar el Sistema Operativo OS X Capitan :</p>
 
-* MacBook (Early 2015 hasta 2017) 
-* MacBook (Late 2008 hasta 2010) 
-* MacBook Air (Late 2008 hasta early 2015) 
-* MacBook Pro (Mid/Late 2007 hasta early 2015) 
-* Mac mini (Early 2009 hasta 2014) 
-* iMac (Mid 2007 hasta mid-2015) 
-* Mac Pro (2008, 2010, 2013) 
+<ul>
+  <li>MacBook (Early 2015 hasta 2017)</li>
+  <li>MacBook (Late 2008 hasta 2010)</li>
+  <li>MacBook Air (Late 2008 hasta early 2015)</li>
+  <li>MacBook Pro (Mid/Late 2007 hasta early 2015)</li>
+  <li>Mac mini (Early 2009 hasta 2014)</li>
+  <li>iMac (Mid 2007 hasta mid-2015)</li>
+  <li>Mac Pro (2008, 2010, 2013)</li>
+</ul>
 
-***
+<hr />
 
-Por su parte OS X Yosemite (OS X 10.10), estuvo disponible para descargar desde Octubre del 2014, la ultima versión es la 10.10.5 y estas son las Mac en las que se puede instalar el Sistema Operativo OS X Yosemite :
+<p>Por su parte OS X Yosemite (OS X 10.10), estuvo disponible para descargar desde Octubre del 2014, la ultima versión es la 10.10.5 y estas son las Mac en las que se puede instalar el Sistema Operativo OS X Yosemite :</p>
 
-* MacBook (Late 2008 hasta 2010) 
-* MacBook Air (Late 2008 hasta mid 2013) 
-* MacBook Pro (13″ Mid-2009 hasta mid 2014) 
-* MacBook Pro (15″ Mid/Late 2007 hasta mid 2014) 
-* MacBook Pro (17″ Late 2007 hasta 2011) 
-* Mac mini (Early 2009 hasta 2012) 
-* iMac (Mid-2007 hasta mid-2014) 
-* Mac Pro (2008 y 2010) 
+<ul>
+  <li>MacBook (Late 2008 hasta 2010)</li>
+  <li>MacBook Air (Late 2008 hasta mid 2013)</li>
+  <li>MacBook Pro (13″ Mid-2009 hasta mid 2014)</li>
+  <li>MacBook Pro (15″ Mid/Late 2007 hasta mid 2014)</li>
+  <li>MacBook Pro (17″ Late 2007 hasta 2011)</li>
+  <li>Mac mini (Early 2009 hasta 2012)</li>
+  <li>iMac (Mid-2007 hasta mid-2014)</li>
+  <li>Mac Pro (2008 y 2010)</li>
+</ul>
 
-***
+<hr />
 
-Por su parte OS X Mavericks (OS X 10.9), estuvo disponible para descargar desde Octubre del 2013, este año se comenzó a nombrar los sistemas con sitios emblemáticos de California, la ultima versión es la 10.9.5 y estas son las Mac en las que se puede instalar el Sistema Operativo OS X Mavericks :
+<p>Por su parte OS X Mavericks (OS X 10.9), estuvo disponible para descargar desde Octubre del 2013, este año se comenzó a nombrar los sistemas con sitios emblemáticos de California, la ultima versión es la 10.9.5 y estas son las Mac en las que se puede instalar el Sistema Operativo OS X Mavericks :</p>
 
-* MacBook (Late 2008 hasta 2010) 
-* MacBook Air (Late 2008 hasta mid 2013) 
-* MacBook Pro (Mid 2007 hasta early 2013) 
-* Xserve (Early 2009) 
-* Mac mini (Early 2009 hasta 2012) 
-* iMac (Mid 2007 hasta early 2013) 
-* Mac Pro (Early 2008 y 2010) 
+<ul>
+  <li>MacBook (Late 2008 hasta 2010)</li>
+  <li>MacBook Air (Late 2008 hasta mid 2013)</li>
+  <li>MacBook Pro (Mid 2007 hasta early 2013)</li>
+  <li>Xserve (Early 2009)</li>
+  <li>Mac mini (Early 2009 hasta 2012)</li>
+  <li>iMac (Mid 2007 hasta early 2013)</li>
+  <li>Mac Pro (Early 2008 y 2010)</li>
+</ul>
 
-***
+<hr />
 
-Por su parte OS X Mountain Lion (OS X 10.8), estuvo disponible para descargar desde Julio del 2012, este es el ultimo de los felinos , la ultima versión es la 10.8.5, y estas son las Mac en las que se puede instalar el Sistema Operativo OS X Mountain Lion :
+<p>Por su parte OS X Mountain Lion (OS X 10.8), estuvo disponible para descargar desde Julio del 2012, este es el ultimo de los felinos , la ultima versión es la 10.8.5, y estas son las Mac en las que se puede instalar el Sistema Operativo OS X Mountain Lion :</p>
 
-* MacBook (Late 2008 hasta 2010) 
-* MacBook Air (Late 2008 hasta mid 2012) 
-* MacBook Pro (Mid/Late 2007 hasta mid-2012) 
-* Mac mini (Early 2009 hasta 2011) 
-* iMac (Mid-2007 hasta 2011) 
-* Mac Pro (Early 2008 y 2010) 
+<ul>
+  <li>MacBook (Late 2008 hasta 2010)</li>
+  <li>MacBook Air (Late 2008 hasta mid 2012)</li>
+  <li>MacBook Pro (Mid/Late 2007 hasta mid-2012)</li>
+  <li>Mac mini (Early 2009 hasta 2011)</li>
+  <li>iMac (Mid-2007 hasta 2011)</li>
+  <li>Mac Pro (Early 2008 y 2010)</li>
+</ul>
 
-Suficiente por los momentos !!!]]></content><author><name></name></author><category term="MAC" /><summary type="html"><![CDATA[El pasado 5 de Junio Apple anuncio, entre otras cosas, sus próximos Sistemas Operativos, incluyendo el macOS 14 , al que bautizo “macOS Sonoma”, con novedades como: widgets interactivos, experiencia de videollamadas mejorada y nuevos salvapantallas entre otras, ahora vamos a dar un vistazo a los equipos en los que se podría instalar y disfrutar de todas estas :]]></summary></entry><entry><title type="html">Generaciones de Procesadores Intel</title><link href="http://localhost:4000/2023/07/29/generaciones-de-procesadores-intel/" rel="alternate" type="text/html" title="Generaciones de Procesadores Intel" /><published>2023-07-29T08:30:50-04:00</published><updated>2023-07-29T08:30:50-04:00</updated><id>http://localhost:4000/2023/07/29/generaciones-de-procesadores-intel</id><content type="html" xml:base="http://localhost:4000/2023/07/29/generaciones-de-procesadores-intel/"><![CDATA[El 15 de Noviembre de 1971 Intel lanza su primer microprocesador: El Intel 4004 (i4004), un CPU de 4 bits, fue el primer microprocesador en un solo chip, 
+<p>Suficiente por los momentos !!!</p>]]></content><author><name></name></author><category term="MAC" /><summary type="html"><![CDATA[El pasado 5 de Junio Apple anuncio, entre otras cosas, sus próximos Sistemas Operativos, incluyendo el macOS 14 , al que bautizo “macOS Sonoma”, con novedades como: widgets interactivos, experiencia de videollamadas mejorada y nuevos salvapantallas entre otras, ahora vamos a dar un vistazo a los equipos en los que se podría instalar y disfrutar de todas estas :]]></summary></entry><entry><title type="html">Generaciones de Procesadores Intel</title><link href="http://localhost:4000/2023/07/29/generaciones-de-procesadores-intel/" rel="alternate" type="text/html" title="Generaciones de Procesadores Intel" /><published>2023-07-29T08:30:50-04:00</published><updated>2023-07-29T08:30:50-04:00</updated><id>http://localhost:4000/2023/07/29/generaciones-de-procesadores-intel</id><content type="html" xml:base="http://localhost:4000/2023/07/29/generaciones-de-procesadores-intel/"><![CDATA[<p>El 15 de Noviembre de 1971 Intel lanza su primer microprocesador: El Intel 4004 (i4004), un CPU de 4 bits, fue el primer microprocesador en un solo chip, 
 la velocidad de reloj(Clock Speed) era menor a 1Mhz y contaba con 2.300 transistores, desde ese entoces los CPUs de la compañia han evolucionado muchisimo y rapidamente, pasando por 
-los famosos 286(80286), i386, i486, Pentium y llegando a los Core.
+los famosos 286(80286), i386, i486, Pentium y llegando a los Core.</p>
 
-Aquí nos vamos a enfocar en los modelos mas recientes, específicamente en la linea "Core", todos hemos escuchado hablar de i3, i5 e i7 y el mas reciente de los i, el i9, pero eso no tiene nada 
+<p>Aquí nos vamos a enfocar en los modelos mas recientes, específicamente en la linea “Core”, todos hemos escuchado hablar de i3, i5 e i7 y el mas reciente de los i, el i9, pero eso no tiene nada 
 que ver con la generación, son solo los modelos y aparecen en la mayoría de las generaciones, las generaciones se refieren a los avances en la tecnología de fabricación y eficiencia, 
 mayor la generación mas avances, esto se traduce en velocidad y eficiencia, por ejemplo un i5 de decimotercera generación puede realizar cálculos con mayor velocidad y eficiencia que un i7 de segunda 
 generación, por eso es importante tener en cuanta de cual generación es nuestro procesador o el que vayamos a adquirir en un futuro, a continuación te dejo una tabla con la linea de tiempo 
-de las generaciones de los modelos Core de Intel  
+de las generaciones de los modelos Core de Intel</p>
 
-***
-Linea de Tiempo de la linea Core de Intel:
+<hr />
+<p>Linea de Tiempo de la linea Core de Intel:</p>
 <table>
     <tr><th>Generación</th><th>Nombre</th><th>Año</th></tr>
     <tr><td>Primera</td><td>Nehalem</td><td>2010</td></tr>
@@ -180,25 +204,25 @@ Linea de Tiempo de la linea Core de Intel:
     <tr><td>Decimotercera</td><td>Raptor Lake</td><td>2022</td></tr>
 </table>
 
-***
-En los modelos también aparecen otros números y letras que tienen un significado y también es importante saber a que se refiere para estar seguros que es el modelo ideal para el tipo de procesamiento 
-que requerimos en nuestros equipos, por ejemplo los sufijos son la o las ultimas letras que aparecen en el modelo que nos indican cosas como no poseer gráficos incorporados, especial para bajo consumo (portátiles), etc. 
+<hr />
+<p>En los modelos también aparecen otros números y letras que tienen un significado y también es importante saber a que se refiere para estar seguros que es el modelo ideal para el tipo de procesamiento 
+que requerimos en nuestros equipos, por ejemplo los sufijos son la o las ultimas letras que aparecen en el modelo que nos indican cosas como no poseer gráficos incorporados, especial para bajo consumo (portátiles), etc.</p>
 
-Vamos a desglosar y explicar un ejemplo :
+<p>Vamos a desglosar y explicar un ejemplo :</p>
 
-## Intel Core i7-13700K
+<h2 id="intel-core-i7-13700k">Intel Core i7-13700K</h2>
 
-<b>Intel Core</b> = Es la marca del modelo
+<p><b>Intel Core</b> = Es la marca del modelo</p>
 
-<b>i7</b> = Es el identificador del modelo, en este caso es un i7
+<p><b>i7</b> = Es el identificador del modelo, en este caso es un i7</p>
 
-<b>13</b> = Es la Generación , en este caso es un procesador de decimotercera generación
+<p><b>13</b> = Es la Generación , en este caso es un procesador de decimotercera generación</p>
 
-<b>700</b> = es el SKU (para no extender mucho , a modo muy simple , mientras mayor sea este numero mayor numero de características podría tener nuestro procesador)
+<p><b>700</b> = es el SKU (para no extender mucho , a modo muy simple , mientras mayor sea este numero mayor numero de características podría tener nuestro procesador)</p>
 
-<b>K</b> = Este es el sufijo , en este caso quiere decir que es un procesador de alto desempeño
+<p><b>K</b> = Este es el sufijo , en este caso quiere decir que es un procesador de alto desempeño</p>
 
-Ahora te dejo una tabla con el significado de cada sufijo :
+<p>Ahora te dejo una tabla con el significado de cada sufijo :</p>
 
 <table>
     <thead>
@@ -284,24 +308,24 @@ Ahora te dejo una tabla con el significado de cada sufijo :
     </tbody>
 </table>
 
-***
-Evolución de Intel:
-<iframe src="https://www.youtube.com/embed/TqOCC65HkCQ?si=26DXgN8TnHgvHkZg" frameborder="0" allowfullscreen></iframe>]]></content><author><name></name></author><category term="MAC" /><category term="PC" /><summary type="html"><![CDATA[El 15 de Noviembre de 1971 Intel lanza su primer microprocesador: El Intel 4004 (i4004), un CPU de 4 bits, fue el primer microprocesador en un solo chip, la velocidad de reloj(Clock Speed) era menor a 1Mhz y contaba con 2.300 transistores, desde ese entoces los CPUs de la compañia han evolucionado muchisimo y rapidamente, pasando por los famosos 286(80286), i386, i486, Pentium y llegando a los Core.]]></summary></entry><entry><title type="html">Alternativas a Teamviewer</title><link href="http://localhost:4000/2023/07/29/alternativas-a-teamviewer/" rel="alternate" type="text/html" title="Alternativas a Teamviewer" /><published>2023-07-29T08:30:50-04:00</published><updated>2023-07-29T08:30:50-04:00</updated><id>http://localhost:4000/2023/07/29/alternativas-a-teamviewer</id><content type="html" xml:base="http://localhost:4000/2023/07/29/alternativas-a-teamviewer/"><![CDATA[Teamviewer es uno de los programas mas utilizados para realizar asistencia remota en equipos informáticos de forma sencilla y segura , pero existen algunas alternativas muy interesantes que vale la pena probar , y aquí vamos a dar un pequeño recorrido por algunas de estas alternativas. 
+<hr />
+<p>Evolución de Intel:</p>
+<iframe src="https://www.youtube.com/embed/TqOCC65HkCQ?si=26DXgN8TnHgvHkZg" frameborder="0" allowfullscreen=""></iframe>]]></content><author><name></name></author><category term="MAC" /><category term="PC" /><summary type="html"><![CDATA[El 15 de Noviembre de 1971 Intel lanza su primer microprocesador: El Intel 4004 (i4004), un CPU de 4 bits, fue el primer microprocesador en un solo chip, la velocidad de reloj(Clock Speed) era menor a 1Mhz y contaba con 2.300 transistores, desde ese entoces los CPUs de la compañia han evolucionado muchisimo y rapidamente, pasando por los famosos 286(80286), i386, i486, Pentium y llegando a los Core.]]></summary></entry><entry><title type="html">Alternativas a Teamviewer</title><link href="http://localhost:4000/2023/07/29/alternativas-a-teamviewer/" rel="alternate" type="text/html" title="Alternativas a Teamviewer" /><published>2023-07-29T08:30:50-04:00</published><updated>2023-07-29T08:30:50-04:00</updated><id>http://localhost:4000/2023/07/29/alternativas-a-teamviewer</id><content type="html" xml:base="http://localhost:4000/2023/07/29/alternativas-a-teamviewer/"><![CDATA[<p>Teamviewer es uno de los programas mas utilizados para realizar asistencia remota en equipos informáticos de forma sencilla y segura , pero existen algunas alternativas muy interesantes que vale la pena probar , y aquí vamos a dar un pequeño recorrido por algunas de estas alternativas.</p>
 
-***
-<a href="https://anydesk.com/" target="_blank">![AnyDesk]({{site.baseurl}}/images/anydesk/anydesk.jpg)</a>
-### AnyDesk: 
- Este es el competidor mas cercano en términos de adopción por usuarios , si eres una persona que utiliza asistencia remota o control remoto IT , seguramente utilizas Teamviewer , y si no utilizas teamviewer es casi seguro que utilices AnyDesk, hay varias características que hacen de anydesk una alternativa bastante competitiva en comparación con teamviewer , la versión gratuita permite muchas mas conexiones y en pocas palabras podemos decir que  todos los atractivos de teamviewer están presentes, la interfaz no es la mas agradable ( se puede decir que es la peor de toda la lista ), creo que esta sera la solución que estaré utilizando como alternativa por lo menos en los proximos meses , no estoy muy emocionado con el cambio pero es inevitable.
+<hr />
+<p><a href="https://anydesk.com/" target="_blank"><img src="/images/anydesk/anydesk.jpg" alt="AnyDesk" /></a></p>
+<h3 id="anydesk">AnyDesk:</h3>
+<p>Este es el competidor mas cercano en términos de adopción por usuarios , si eres una persona que utiliza asistencia remota o control remoto IT , seguramente utilizas Teamviewer , y si no utilizas teamviewer es casi seguro que utilices AnyDesk, hay varias características que hacen de anydesk una alternativa bastante competitiva en comparación con teamviewer , la versión gratuita permite muchas mas conexiones y en pocas palabras podemos decir que  todos los atractivos de teamviewer están presentes, la interfaz no es la mas agradable ( se puede decir que es la peor de toda la lista ), creo que esta sera la solución que estaré utilizando como alternativa por lo menos en los proximos meses , no estoy muy emocionado con el cambio pero es inevitable.</p>
 
 <ul>
 <li><a href="https://anydesk.com/es/downloads/thank-you?dv=mac_dmg" target="_blank">Descargar para macOS</a></li>
 <li><a href="https://anydesk.com/es/downloads/thank-you?dv=win_exe" target="_blank">Descargar para PC</a></li>
 </ul>
 
-***
-<a href="https://rustdesk.com/" target="_blank">![RustDesk]({{site.baseurl}}/images/rustdesk/rustdesk-550x244.png)</a>
-### RustDesk:
- Este ha sido un grato descubrimiento que le debo a un gran diseñador y programador que me lo presento hace poco, todavía no he tenido oportunidad de probarlo pero es un proyecto de código abierto , al ser una aplicación web que se debe realizar de forma selfhosted es un poco complicado de implementar y procura un servidor y eso llega a ser una desventaja por la infraestructura necesaria, me parece un proyecto super interesante , pero no es algo que (por ahora) estará entre las opciones de control y servicio remoto que ofreceré en mis servicios , por lo menos no en un futuro cercano
+<hr />
+<p><a href="https://rustdesk.com/" target="_blank"><img src="/images/rustdesk/rustdesk-550x244.png" alt="RustDesk" /></a></p>
+<h3 id="rustdesk">RustDesk:</h3>
+<p>Este ha sido un grato descubrimiento que le debo a un gran diseñador y programador que me lo presento hace poco, todavía no he tenido oportunidad de probarlo pero es un proyecto de código abierto , al ser una aplicación web que se debe realizar de forma selfhosted es un poco complicado de implementar y procura un servidor y eso llega a ser una desventaja por la infraestructura necesaria, me parece un proyecto super interesante , pero no es algo que (por ahora) estará entre las opciones de control y servicio remoto que ofreceré en mis servicios , por lo menos no en un futuro cercano</p>
 
 <ul>
 <li><a href="https://github.com/rustdesk/rustdesk/releases/download/1.2.3/rustdesk-1.2.3-x86_64.dmg" target="_blank">Descargar para macOS</a></li>
@@ -309,58 +333,54 @@ Evolución de Intel:
 <li><a href="https://github.com/rustdesk/rustdesk/releases/download/1.2.3/rustdesk-1.2.3-x86_64.exe" target="_blank">Descargar para PC</a></li>
 </ul>
 
-***
-<a href="https://www.dwservice.net/" target="_blank">![DWservice]({{site.baseurl}}/images/dwservice/dwservice.png)</a>
-### DWService:
- Este es otro proyecto de código abierto , es muy bueno y funcional, muy superior a todos los anteriores pero tiene un pequeño inconveniente que me molesta un poco , funciona con una agente(servicio) instalado en la parte del cliente , eso en pocas palabras se refiere a que se integra mas de lo que se siente cómodo al sistema operativo , para mi es un poco peligroso , yo no quiero tener un acceso completo a los equipos remotos en los que estoy trabajando, la privacidad es algo muy importante y este servicio tiene el potencial de ser una puerta trasera(Backdoor) que no es lo que buscamos, por eso no es algo que recomiende para utilizar como servicio remoto, en cambio si lo recomiendo ampliamente como una solicion de acceso remoto para equipos personales 
+<hr />
+<p><a href="https://www.dwservice.net/" target="_blank"><img src="/images/dwservice/dwservice.png" alt="DWservice" /></a></p>
+<h3 id="dwservice">DWService:</h3>
+<p>Este es otro proyecto de código abierto , es muy bueno y funcional, muy superior a todos los anteriores pero tiene un pequeño inconveniente que me molesta un poco , funciona con una agente(servicio) instalado en la parte del cliente , eso en pocas palabras se refiere a que se integra mas de lo que se siente cómodo al sistema operativo , para mi es un poco peligroso , yo no quiero tener un acceso completo a los equipos remotos en los que estoy trabajando, la privacidad es algo muy importante y este servicio tiene el potencial de ser una puerta trasera(Backdoor) que no es lo que buscamos, por eso no es algo que recomiende para utilizar como servicio remoto, en cambio si lo recomiendo ampliamente como una solicion de acceso remoto para equipos personales</p>
 <ul>
 <li><a href="https://www.dwservice.net/download/dwagent_x86.dmg" target="_blank">Descargar para macOS</a></li>
 <li><a href="https://www.dwservice.net/download/dwagent_x86.exe" target="_blank">Descargar para PC</a></li>
-</ul>]]></content><author><name></name></author><category term="MAC" /><category term="PC" /><summary type="html"><![CDATA[Teamviewer es uno de los programas mas utilizados para realizar asistencia remota en equipos informáticos de forma sencilla y segura , pero existen algunas alternativas muy interesantes que vale la pena probar , y aquí vamos a dar un pequeño recorrido por algunas de estas alternativas.]]></summary></entry><entry><title type="html">Como localizar el numero de serie de tu mac</title><link href="http://localhost:4000/2023/07/23/como-localizar-el-numero-de-serie-de-tu-mac/" rel="alternate" type="text/html" title="Como localizar el numero de serie de tu mac" /><published>2023-07-23T15:43:29-04:00</published><updated>2023-07-23T15:43:29-04:00</updated><id>http://localhost:4000/2023/07/23/como-localizar-el-numero-de-serie-de-tu-mac</id><content type="html" xml:base="http://localhost:4000/2023/07/23/como-localizar-el-numero-de-serie-de-tu-mac/"><![CDATA[El número de serie de su Mac es un identificador único que distingue a su Mac de todas los demás. Deberá proporcionar el número de serie de su Mac cuando solicite un servicio.
+</ul>]]></content><author><name></name></author><category term="MAC" /><category term="PC" /><summary type="html"><![CDATA[Teamviewer es uno de los programas mas utilizados para realizar asistencia remota en equipos informáticos de forma sencilla y segura , pero existen algunas alternativas muy interesantes que vale la pena probar , y aquí vamos a dar un pequeño recorrido por algunas de estas alternativas.]]></summary></entry><entry><title type="html">Como localizar el numero de serie de tu mac</title><link href="http://localhost:4000/2023/07/23/como-localizar-el-numero-de-serie-de-tu-mac/" rel="alternate" type="text/html" title="Como localizar el numero de serie de tu mac" /><published>2023-07-23T15:43:29-04:00</published><updated>2023-07-23T15:43:29-04:00</updated><id>http://localhost:4000/2023/07/23/como-localizar-el-numero-de-serie-de-tu-mac</id><content type="html" xml:base="http://localhost:4000/2023/07/23/como-localizar-el-numero-de-serie-de-tu-mac/"><![CDATA[<p>El número de serie de su Mac es un identificador único que distingue a su Mac de todas los demás. Deberá proporcionar el número de serie de su Mac cuando solicite un servicio.</p>
 
-La forma más fácil de encontrar su número de serie dependerá de si la misma enciende o no. Si su Mac enciende(y puedes acceder a la interfaz gráfica), puede encontrar el número de serie de forma muy sencilla desde la interfaz del usuario. Si no se enciende, deberá encontrarlo (físicamente) en la mac o en el embalaje original.
+<p>La forma más fácil de encontrar su número de serie dependerá de si la misma enciende o no. Si su Mac enciende(y puedes acceder a la interfaz gráfica), puede encontrar el número de serie de forma muy sencilla desde la interfaz del usuario. Si no se enciende, deberá encontrarlo (físicamente) en la mac o en el embalaje original.</p>
 <h4>Si tu Mac enciende.</h4>
-Si tu Mac funciona correctamente, es fácil encontrar el número de serie. Simplemente haga clic en el ícono del menú Apple (<i class="fa fa-apple"></i>) en la parte superior de la pantalla y seleccione "Acerca de esta Mac".
+<p>Si tu Mac funciona correctamente, es fácil encontrar el número de serie. Simplemente haga clic en el ícono del menú Apple (<i class="fa fa-apple"></i>) en la parte superior de la pantalla y seleccione “Acerca de esta Mac”.</p>
 
 <!-- <img class="alignnone size-medium wp-image-664" src="http://jobregonaraujo.homelinux.net:8001/wp-content/uploads/2018/10/apple-menu-300x121.jpg" alt="" width="300" height="121" /> -->
-![apple-menu]({{site.baseurl}}/images/pages/serial/apple-menu.jpg)
+<p><img src="/images/pages/serial/apple-menu.jpg" alt="apple-menu" /></p>
 
-
-Verá el número de serie que se muestra junto con el número de modelo de su Mac, las especificaciones de hardware y la versión de macOS que ha instalado.
+<p>Verá el número de serie que se muestra junto con el número de modelo de su Mac, las especificaciones de hardware y la versión de macOS que ha instalado.</p>
 
 <!-- <img class="alignnone size-medium wp-image-663" src="http://jobregonaraujo.homelinux.net:8001/wp-content/uploads/2018/10/about-this-mac-300x138.png" alt="" width="300" height="138" /> -->
-![aboutThisMac]({{site.baseurl}}/images/pages/serial/about-this-mac.png)
+<p><img src="/images/pages/serial/about-this-mac.png" alt="aboutThisMac" /></p>
 
 <h4>Si tu Mac no enciende.</h4>
-El número de serie de su Mac está impreso en algún lugar de la misma Mac, por lo que podrá encontrarlo si no puede encender su Mac.
+<p>El número de serie de su Mac está impreso en algún lugar de la misma Mac, por lo que podrá encontrarlo si no puede encender su Mac.</p>
 
-Al voltear una MacBook, verá el número de serie impreso en la misma Mac, cerca del texto "Diseñado por Apple en California". En una Mac Mini, encontrarás el número de serie en la parte inferior. En el Mac Pro, lo encontrarás en el panel posterior.
+<p>Al voltear una MacBook, verá el número de serie impreso en la misma Mac, cerca del texto “Diseñado por Apple en California”. En una Mac Mini, encontrarás el número de serie en la parte inferior. En el Mac Pro, lo encontrarás en el panel posterior.</p>
 
 <!-- <img class="alignnone size-medium wp-image-665" src="http://jobregonaraujo.homelinux.net:8001/wp-content/uploads/2018/10/ser-macbook-300x88.jpg" alt="" width="300" height="88" /> -->
-![aboutThisMac]({{site.baseurl}}/images/pages/serial/ser-macbook.jpg)
+<p><img src="/images/pages/serial/ser-macbook.jpg" alt="aboutThisMac" /></p>
 
-En un iMac es particularmente complicado porque deberás colocar el iMac sobre la pantalla para visualizar el serial impreso(ver la siguiente foto).
+<p>En un iMac es particularmente complicado porque deberás colocar el iMac sobre la pantalla para visualizar el serial impreso(ver la siguiente foto).</p>
 
 <!-- <img class="alignnone size-medium wp-image-662" src="http://jobregonaraujo.homelinux.net:8001/wp-content/uploads/2018/10/ser-imac-300x132.jpg" alt="" width="300" height="132" /> -->
-![aboutThisMac]({{site.baseurl}}/images/pages/serial/ser-imac.jpg)
+<p><img src="/images/pages/serial/ser-imac.jpg" alt="aboutThisMac" /></p>
 
-Si aún tiene la caja en la que originalmente vino su Mac, busque en la caja. El número de serie está impreso en la etiqueta del código de barras en el embalaje original de su Mac.
+<p>Si aún tiene la caja en la que originalmente vino su Mac, busque en la caja. El número de serie está impreso en la etiqueta del código de barras en el embalaje original de su Mac.</p>
 
 <!-- <img class="alignnone size-medium wp-image-661" src="http://jobregonaraujo.homelinux.net:8001/wp-content/uploads/2018/10/ser-caja-300x133.jpg" alt="" width="300" height="133" /> -->
-![aboutThisMac]({{site.baseurl}}/images/pages/serial/ser-caja.jpg)
+<p><img src="/images/pages/serial/ser-caja.jpg" alt="aboutThisMac" /></p>
 
-Existen otras formas de localizar el numero de serie de su mac , puedes obtener mas información sobre este tema directamente en la base de conocimiento de apple <a style="color: blue;" href="https://support.apple.com/es-es/HT204308" target='_blank'>HT204308</a>
+<p>Existen otras formas de localizar el numero de serie de su mac , puedes obtener mas información sobre este tema directamente en la base de conocimiento de apple <a style="color: blue;" href="https://support.apple.com/es-es/HT204308" target="_blank">HT204308</a></p>
 
+<p>PD. Como dato adicional , solo por diversión , ya que no es practico y mucho menos necesario saber como obtener el numero de serie de tu equipo utilizanado el terminal, les dejo a continuanción el comando que pueden usar desde el terminal:</p>
 
-PD. Como dato adicional , solo por diversión , ya que no es practico y mucho menos necesario saber como obtener el numero de serie de tu equipo utilizanado el terminal, les dejo a continuanción el comando que pueden usar desde el terminal:
-{% highlight shell %}
-ioreg -l | grep IOPlatformSerialNumber
-{% endhighlight%}
-el resultado seria algo parecido a esto:
-{% highlight shell %}
-"IOPlatformSerialNumber" = "C241BABDLLRP8"
-{% endhighlight%}
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell">ioreg <span class="nt">-l</span> | <span class="nb">grep </span>IOPlatformSerialNumber</code></pre></figure>
 
+<p>el resultado seria algo parecido a esto:</p>
+
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell"><span class="s2">"IOPlatformSerialNumber"</span> <span class="o">=</span> <span class="s2">"C241BABDLLRP8"</span></code></pre></figure>
 
 <!-- Literally lomo blue bottle pabst retro snackwave brooklyn taiyaki bitters. Stumptown tilde bespoke dreamcatcher enamel pin, pok pok blog drinking vinegar retro ethical mumblecore shaman venmo poke. Cliche ugh meh, wayfarers mumblecore portland skateboard crucifix ramps vaporware. Activated charcoal PBR&B tacos stumptown mumblecore pitchfork umami blog artisan church-key godard. Shabby chic meh lyft, tilde pork belly echo park +1 tote bag tofu. Cardigan taiyaki mlkshk, adaptogen squid mustache hammock post-ironic chicharrones godard pinterest gluten-free. Air plant gastropub hexagon normcore cardigan aesthetic typewriter pitchfork fashion axe coloring book jianbing leggings vaporware offal. Bushwick palo santo leggings four dollar toast truffaut gluten-free. Fashion axe lo-fi vexillologist kinfolk. Authentic sriracha affogato, tofu polaroid enamel pin poke. Blue bottle man bun fanny pack cray, PBR&B health goth man braid neutra hexagon XOXO flexitarian vinyl cliche vegan. Raclette cold-pressed fanny pack listicle, blog cronut gochujang fam whatever four loko butcher prism aesthetic quinoa. Raclette thundercats gluten-free tbh, ethical adaptogen keffiyeh fam. Swag distillery pop-up offal. Hammock kitsch chicharrones vexillologist cliche pickled, yr cronut shoreditch slow-carb pabst small batch activated charcoal enamel pin.
 
@@ -380,7 +400,7 @@ Pop-up aesthetic portland prism salvia unicorn art party leggings heirloom whate
 
 Hell of letterpress gentrify single-origin coffee pork belly. Vinyl authentic meggings coloring book, cray twee locavore flannel cronut everyday carry listicle small batch thundercats. 3 wolf moon before they sold out brunch selvage. Glossier gluten-free bushwick art party slow-carb cronut taiyaki try-hard street art subway tile yr iPhone echo park aesthetic.
 
-![Forest]({{site.baseurl}}/images/pages/18.jpg)
+![Forest](/images/pages/18.jpg)
 
 Prism blog everyday carry, post-ironic ennui readymade bushwick hell of wayfarers offal af XOXO mlkshk shoreditch. Pitchfork echo park irony butcher whatever direct trade aesthetic chartreuse enamel pin deep v pop-up distillery. Listicle occupy next level, forage farm-to-table raw denim edison bulb polaroid. Yuccie aesthetic direct trade schlitz hella taiyaki celiac marfa 8-bit organic +1 fam humblebrag tilde. Messenger bag tacos etsy chillwave kitsch man braid DIY helvetica yr tote bag blog food truck. Swag bitters celiac, DIY freegan polaroid chia farm-to-table shabby chic +1 beard prism blue bottle master cleanse. Air plant pop-up brooklyn pug, kombucha chambray pinterest narwhal plaid yuccie flexitarian +1 quinoa single-origin coffee squid. Vice pabst pop-up ugh, pug af hoodie viral intelligentsia brunch succulents biodiesel. Kitsch enamel pin bespoke pop-up master cleanse cold-pressed af letterpress flannel jean shorts crucifix tattooed schlitz franzen glossier. Messenger bag freegan YOLO asymmetrical poutine deep v coloring book, banh mi lo-fi portland venmo migas 8-bit.
 
@@ -392,20 +412,16 @@ Bushwick tattooed blue bottle, lumbersexual fashion axe echo park thundercats he
 
 YOLO live-edge marfa, cardigan hot chicken hella unicorn raclette try-hard bushwick twee hoodie. Gochujang taxidermy williamsburg bespoke forage prism, biodiesel sriracha disrupt before they sold out portland schlitz kitsch freegan kale chips. Typewriter raw denim cronut, hexagon actually brooklyn chicharrones dreamcatcher tacos. Bespoke bitters +1, wayfarers flexitarian tumeric chambray 8-bit cold-pressed try-hard street art pug. Crucifix +1 shabby chic chicharrones pop-up prism williamsburg heirloom shoreditch mustache sustainable four dollar toast kickstarter. Thundercats four dollar toast drinking vinegar bitters. +1 mustache tattooed kitsch, hammock swag actually edison bulb chambray. Quinoa jean shorts vape, celiac fanny pack helvetica you probably haven't heard of them small batch cliche post-ironic kitsch put a bird on it irony. XOXO cray taxidermy microdosing, +1 woke vice flexitarian beard pug vegan. Flannel health goth swag tofu distillery skateboard. Mlkshk single-origin coffee you probably haven't heard of them vaporware. Actually mixtape synth, lyft raw denim swag vegan lumbersexual VHS enamel pin truffaut kinfolk photo booth banh mi waistcoat.
 
-Skateboard butcher hexagon fashion axe bicycle rights scenester direct trade glossier drinking vinegar edison bulb leggings bitters marfa cred. Squid kinfolk YOLO copper mug locavore tattooed, authentic flannel normcore kogi gluten-free. Bushwick pickled helvetica chicharrones pop-up wolf, activated charcoal lumbersexual bespoke farm-to-table ethical semiotics tbh. Gentrify 8-bit live-edge, artisan man braid mustache cliche vice. Banh mi small batch yr meditation organic, cronut fashion axe. Forage plaid helvetica post-ironic hella. Raw denim edison bulb live-edge austin. Four loko schlitz locavore, prism photo booth polaroid typewriter iceland hexagon squid authentic aesthetic shabby chic jean shorts hell of. Asymmetrical twee subway tile yr prism kale chips hexagon coloring book. Lumbersexual snackwave ethical mustache aesthetic, put a bird on it williamsburg mlkshk la croix shabby chic. -->]]></content><author><name></name></author><category term="MAC" /><summary type="html"><![CDATA[El número de serie de su Mac es un identificador único que distingue a su Mac de todas los demás. Deberá proporcionar el número de serie de su Mac cuando solicite un servicio.]]></summary></entry><entry><title type="html">Usar Teamviewer QS (PC)</title><link href="http://localhost:4000/2023/07/23/usar-teamviewer-qs-pc-win/" rel="alternate" type="text/html" title="Usar Teamviewer QS (PC)" /><published>2023-07-23T13:49:27-04:00</published><updated>2023-07-23T13:49:27-04:00</updated><id>http://localhost:4000/2023/07/23/usar-teamviewer-qs-pc-win</id><content type="html" xml:base="http://localhost:4000/2023/07/23/usar-teamviewer-qs-pc-win/"><![CDATA[A continuación te mostrare la manera mas sencilla de disfrutar de nuestro servicio de asistencia remota, utilizaremos una aplicación gratuita pero muy poderosa (en su versión mas sencilla) en el ámbito de el acceso remoto a sistemas informáticos, lo utilizaremos para poder ofrecer el servicio de asistencia remota.
+Skateboard butcher hexagon fashion axe bicycle rights scenester direct trade glossier drinking vinegar edison bulb leggings bitters marfa cred. Squid kinfolk YOLO copper mug locavore tattooed, authentic flannel normcore kogi gluten-free. Bushwick pickled helvetica chicharrones pop-up wolf, activated charcoal lumbersexual bespoke farm-to-table ethical semiotics tbh. Gentrify 8-bit live-edge, artisan man braid mustache cliche vice. Banh mi small batch yr meditation organic, cronut fashion axe. Forage plaid helvetica post-ironic hella. Raw denim edison bulb live-edge austin. Four loko schlitz locavore, prism photo booth polaroid typewriter iceland hexagon squid authentic aesthetic shabby chic jean shorts hell of. Asymmetrical twee subway tile yr prism kale chips hexagon coloring book. Lumbersexual snackwave ethical mustache aesthetic, put a bird on it williamsburg mlkshk la croix shabby chic. -->]]></content><author><name></name></author><category term="MAC" /><summary type="html"><![CDATA[El número de serie de su Mac es un identificador único que distingue a su Mac de todas los demás. Deberá proporcionar el número de serie de su Mac cuando solicite un servicio.]]></summary></entry><entry><title type="html">Usar Teamviewer QS (PC)</title><link href="http://localhost:4000/2023/07/23/usar-teamviewer-qs-pc-win/" rel="alternate" type="text/html" title="Usar Teamviewer QS (PC)" /><published>2023-07-23T13:49:27-04:00</published><updated>2023-07-23T13:49:27-04:00</updated><id>http://localhost:4000/2023/07/23/usar-teamviewer-qs-pc-win</id><content type="html" xml:base="http://localhost:4000/2023/07/23/usar-teamviewer-qs-pc-win/"><![CDATA[<p>A continuación te mostrare la manera mas sencilla de disfrutar de nuestro servicio de asistencia remota, utilizaremos una aplicación gratuita pero muy poderosa (en su versión mas sencilla) en el ámbito de el acceso remoto a sistemas informáticos, lo utilizaremos para poder ofrecer el servicio de asistencia remota.</p>
 
-Antes de comenzar es importante saber que no hay ningún riesgo en el uso de esta aplicación. La usaremos en la forma mas segura posible , claves aleatorias, lo que obliga al usuario a estar frente al equipo cada vez que inicie una conexión remota.
+<p>Antes de comenzar es importante saber que no hay ningún riesgo en el uso de esta aplicación. La usaremos en la forma mas segura posible , claves aleatorias, lo que obliga al usuario a estar frente al equipo cada vez que inicie una conexión remota.</p>
 
-El proceso es muy sencillo, solo debemos descargar la aplicación compatible con nuestro sistema operativo , que convenientemente colocare unos links a continuación para facilitar su descarga.
+<p>El proceso es muy sencillo, solo debemos descargar la aplicación compatible con nuestro sistema operativo , que convenientemente colocare unos links a continuación para facilitar su descarga.</p>
 <ul>
 	<li>PC <a href="https://download.teamviewer.com/download/TeamViewerQS.exe" target="_blank">https://download.teamviewer.com/download/TeamViewerQS.exe</a></li>
 </ul>
 
-
-Los usuarios de sistemas Windows deberán descargar el archivo ejecutable del link debidamente indicado anteriormente, luego hacer doble click sobre el mismo, recibirán una advertencia del sistema preguntando si desean que el programa "realice cambios en el equipo" a lo cual haremos click en si (no se preocupe que en realidad no habrán cambios sustanciales en el equipo, solo los necesarios para permitir la asistencia remota), luego el programa abrirá y verán una ventana en la que (puede tardar un poco) se mostrar el ID y una contraseña generada automáticamente que sera necesaria para comenzar la asistencia remota.
-
-
-
+<p>Los usuarios de sistemas Windows deberán descargar el archivo ejecutable del link debidamente indicado anteriormente, luego hacer doble click sobre el mismo, recibirán una advertencia del sistema preguntando si desean que el programa “realice cambios en el equipo” a lo cual haremos click en si (no se preocupe que en realidad no habrán cambios sustanciales en el equipo, solo los necesarios para permitir la asistencia remota), luego el programa abrirá y verán una ventana en la que (puede tardar un poco) se mostrar el ID y una contraseña generada automáticamente que sera necesaria para comenzar la asistencia remota.</p>
 
 <!-- Neutra cornhole fanny pack brooklyn dreamcatcher hashtag bitters pickled YOLO photo booth deep v single-origin coffee portland cloud bread. Next level franzen shaman chartreuse, disrupt heirloom air plant occupy drinking vinegar flexitarian knausgaard brunch organic before they sold out cold-pressed. Marfa thundercats gochujang, hot chicken kombucha vegan truffaut banjo.
 
@@ -425,26 +441,25 @@ Pop-up aesthetic portland prism salvia unicorn art party leggings heirloom whate
 
 Hell of letterpress gentrify single-origin coffee pork belly. Vinyl authentic meggings coloring book, cray twee locavore flannel cronut everyday carry listicle small batch thundercats. 3 wolf moon before they sold out brunch selvage. Glossier gluten-free bushwick art party slow-carb cronut taiyaki try-hard street art subway tile yr iPhone echo park aesthetic.
 
-![Flower and water]({{site.baseurl}}/images/pages/18.jpg)
+![Flower and water](/images/pages/18.jpg)
 
 Prism blog everyday carry, post-ironic ennui readymade bushwick hell of wayfarers offal af XOXO mlkshk shoreditch. Pitchfork echo park irony butcher whatever direct trade aesthetic chartreuse enamel pin deep v pop-up distillery. Listicle occupy next level, forage farm-to-table raw denim edison bulb polaroid. Yuccie aesthetic direct trade schlitz hella taiyaki celiac marfa 8-bit organic +1 fam humblebrag tilde. Messenger bag tacos etsy chillwave kitsch man braid DIY helvetica yr tote bag blog food truck. Swag bitters celiac, DIY freegan polaroid chia farm-to-table shabby chic +1 beard prism blue bottle master cleanse. Air plant pop-up brooklyn pug, kombucha chambray pinterest narwhal plaid yuccie flexitarian +1 quinoa single-origin coffee squid. Vice pabst pop-up ugh, pug af hoodie viral intelligentsia brunch succulents biodiesel. Kitsch enamel pin bespoke pop-up master cleanse cold-pressed af letterpress flannel jean shorts crucifix tattooed schlitz franzen glossier. Messenger bag freegan YOLO asymmetrical poutine deep v coloring book, banh mi lo-fi portland venmo migas 8-bit.
 
 > Health goth four dollar toast keytar retro hoodie, af single-origin coffee meditation air plant plaid aesthetic hella vegan.
 
-Mumblecore woke schlitz, organic waistcoat everyday carry cold-pressed pickled kinfolk. Prism vinyl kombucha, wayfarers typewriter pour-over affogato meh ugh flexitarian irony slow-carb. 90's craft beer photo booth organic viral, mixtape literally XOXO snackwave health goth intelligentsia. Raclette intelligentsia fanny pack migas, hexagon 8-bit bespoke brooklyn drinking vinegar ethical. Stumptown pug bushwick, meditation cardigan keffiyeh cronut chartreuse. Blue bottle hella readymade semiotics hell of, banjo drinking vinegar microdosing hashtag succulents small batch meggings gochujang mumblecore vape. Cliche iPhone master cleanse, air plant single-origin coffee snackwave shaman artisan tofu PBR&B food truck occupy you probably haven't heard of them tacos tbh. Humblebrag locavore activated charcoal sartorial asymmetrical. 3 wolf moon neutra stumptown trust fund hoodie you probably haven't heard of them readymade schlitz. Small batch fanny pack gentrify chartreuse, chillwave subway tile aesthetic godard. Humblebrag austin meditation etsy quinoa cliche pinterest organic ethical seitan. Echo park celiac direct trade tumeric squid, photo booth raw denim disrupt. Bicycle rights four dollar toast tacos intelligentsia biodiesel. Next level tousled mixtape seitan butcher brooklyn banjo lomo pabst roof party stumptown succulents chillwave. Man bun succulents viral fingerstache tofu. -->]]></content><author><name></name></author><category term="PC" /><summary type="html"><![CDATA[A continuación te mostrare la manera mas sencilla de disfrutar de nuestro servicio de asistencia remota, utilizaremos una aplicación gratuita pero muy poderosa (en su versión mas sencilla) en el ámbito de el acceso remoto a sistemas informáticos, lo utilizaremos para poder ofrecer el servicio de asistencia remota.]]></summary></entry><entry><title type="html">Usar Teamviewer QS (MAC)</title><link href="http://localhost:4000/2023/07/23/usar-teamviewer-qs-mac/" rel="alternate" type="text/html" title="Usar Teamviewer QS (MAC)" /><published>2023-07-23T12:58:28-04:00</published><updated>2023-07-23T12:58:28-04:00</updated><id>http://localhost:4000/2023/07/23/usar-teamviewer-qs-mac</id><content type="html" xml:base="http://localhost:4000/2023/07/23/usar-teamviewer-qs-mac/"><![CDATA[A continuación te mostrare la manera mas sencilla de disfrutar de uno de nuestros servicios de valor agregado; utilizaremos una aplicación gratuita pero muy poderosa (en su versión mas sencilla) en el ámbito de el acceso remoto a sistemas informáticos, lo utilizaremos para poder ofrecer el servicio de asistencia remota.
+Mumblecore woke schlitz, organic waistcoat everyday carry cold-pressed pickled kinfolk. Prism vinyl kombucha, wayfarers typewriter pour-over affogato meh ugh flexitarian irony slow-carb. 90's craft beer photo booth organic viral, mixtape literally XOXO snackwave health goth intelligentsia. Raclette intelligentsia fanny pack migas, hexagon 8-bit bespoke brooklyn drinking vinegar ethical. Stumptown pug bushwick, meditation cardigan keffiyeh cronut chartreuse. Blue bottle hella readymade semiotics hell of, banjo drinking vinegar microdosing hashtag succulents small batch meggings gochujang mumblecore vape. Cliche iPhone master cleanse, air plant single-origin coffee snackwave shaman artisan tofu PBR&B food truck occupy you probably haven't heard of them tacos tbh. Humblebrag locavore activated charcoal sartorial asymmetrical. 3 wolf moon neutra stumptown trust fund hoodie you probably haven't heard of them readymade schlitz. Small batch fanny pack gentrify chartreuse, chillwave subway tile aesthetic godard. Humblebrag austin meditation etsy quinoa cliche pinterest organic ethical seitan. Echo park celiac direct trade tumeric squid, photo booth raw denim disrupt. Bicycle rights four dollar toast tacos intelligentsia biodiesel. Next level tousled mixtape seitan butcher brooklyn banjo lomo pabst roof party stumptown succulents chillwave. Man bun succulents viral fingerstache tofu. -->]]></content><author><name></name></author><category term="PC" /><summary type="html"><![CDATA[A continuación te mostrare la manera mas sencilla de disfrutar de nuestro servicio de asistencia remota, utilizaremos una aplicación gratuita pero muy poderosa (en su versión mas sencilla) en el ámbito de el acceso remoto a sistemas informáticos, lo utilizaremos para poder ofrecer el servicio de asistencia remota.]]></summary></entry><entry><title type="html">Usar Teamviewer QS (MAC)</title><link href="http://localhost:4000/2023/07/23/usar-teamviewer-qs-mac/" rel="alternate" type="text/html" title="Usar Teamviewer QS (MAC)" /><published>2023-07-23T12:58:28-04:00</published><updated>2023-07-23T12:58:28-04:00</updated><id>http://localhost:4000/2023/07/23/usar-teamviewer-qs-mac</id><content type="html" xml:base="http://localhost:4000/2023/07/23/usar-teamviewer-qs-mac/"><![CDATA[<p>A continuación te mostrare la manera mas sencilla de disfrutar de uno de nuestros servicios de valor agregado; utilizaremos una aplicación gratuita pero muy poderosa (en su versión mas sencilla) en el ámbito de el acceso remoto a sistemas informáticos, lo utilizaremos para poder ofrecer el servicio de asistencia remota.</p>
 
-Antes de comenzar es importante saber que no hay ningún riesgo en el uso de esta aplicación. La usaremos en la forma mas segura posible, claves aleatorias, lo que obliga al usuario a estar frente al equipo cada vez que inicie una conexión remota.
+<p>Antes de comenzar es importante saber que no hay ningún riesgo en el uso de esta aplicación. La usaremos en la forma mas segura posible, claves aleatorias, lo que obliga al usuario a estar frente al equipo cada vez que inicie una conexión remota.</p>
 
-El proceso es muy sencillo, solo debemos descargar la aplicación compatible con nuestro sistema operativo , que convenientemente colocare unos links a continuación para facilitar su descarga.
+<p>El proceso es muy sencillo, solo debemos descargar la aplicación compatible con nuestro sistema operativo , que convenientemente colocare unos links a continuación para facilitar su descarga.</p>
 <ul>
-	<li>macOS  <a href="https://download.teamviewer.com/download/TeamViewerQS.dmg" target="_blank" > https://download.teamviewer.com/download/TeamViewewrQS.dmg</a></li>
+	<li>macOS  <a href="https://download.teamviewer.com/download/TeamViewerQS.dmg" target="_blank"> https://download.teamviewer.com/download/TeamViewewrQS.dmg</a></li>
 	
 </ul>
 
-Los usuarios de sistemas macOS deberán descargar la imagen de disco dmg (el link esta arriba) y luego hacer doble click sobre ella y se abrirá una ventana en donde verán el icono de "Teamviewer Quick Support", solo hacer doble click sobre el mismo y se abrirá la aplicación, que automáticamente se conectara a la red de teamviewer proporcionando un ID y generando alentadoramente una contraseña, estos serán los datos necesarios para comenzar la asistencia remota.
+<p>Los usuarios de sistemas macOS deberán descargar la imagen de disco dmg (el link esta arriba) y luego hacer doble click sobre ella y se abrirá una ventana en donde verán el icono de “Teamviewer Quick Support”, solo hacer doble click sobre el mismo y se abrirá la aplicación, que automáticamente se conectara a la red de teamviewer proporcionando un ID y generando alentadoramente una contraseña, estos serán los datos necesarios para comenzar la asistencia remota.</p>
 
-En los Sistemas Operativos mas recientes de apple , hay una serie de permisos necesarios para poder hacer uso de la asistencia remota. La aplicación te ira guiando si es necesario, si tienes cualquier duda puedes comunicarte conmigo y te ayudo de forma telefónica o de la forma que te sea mas conveniente a poner en marcha la aplicación. 
-
+<p>En los Sistemas Operativos mas recientes de apple , hay una serie de permisos necesarios para poder hacer uso de la asistencia remota. La aplicación te ira guiando si es necesario, si tienes cualquier duda puedes comunicarte conmigo y te ayudo de forma telefónica o de la forma que te sea mas conveniente a poner en marcha la aplicación.</p>
 
 <!-- lue bottle pabst retro snackwave brooklyn taiyaki bitters. Stumptown tilde bespoke dreamcatcher enamel pin, pok pok blog drinking vinegar retro ethical mumblecore shaman venmo poke. Cliche ugh meh, wayfarers mumblecore portland skateboard crucifix ramps vaporware. Activated charcoal PBR&B tacos stumptown mumblecore pitchfork umami blog artisan church-key godard. Shabby chic meh lyft, tilde pork belly echo park +1 tote bag tofu. Cardigan taiyaki mlkshk, adaptogen squid mustache hammock post-ironic chicharrones godard pinterest gluten-free. Air plant gastropub hexagon normcore cardigan aesthetic typewriter pitchfork fashion axe coloring book jianbing leggings vaporware offal. Bushwick palo santo leggings four dollar toast truffaut gluten-free. Fashion axe lo-fi vexillologist kinfolk. Authentic sriracha affogato, tofu polaroid enamel pin poke. Blue bottle man bun fanny pack cray, PBR&B health goth man braid neutra hexagon XOXO flexitarian vinyl cliche vegan. Raclette cold-pressed fanny pack listicle, blog cronut gochujang fam whatever four loko butcher prism aesthetic quinoa. Raclette thundercats gluten-free tbh, ethical adaptogen keffiyeh fam. Swag distillery pop-up offal. Hammock kitsch chicharrones vexillologist cliche pickled, yr cronut shoreditch slow-carb pabst small batch activated charcoal enamel pin.
 
@@ -464,7 +479,7 @@ Pop-up aesthetic portland prism salvia unicorn art party leggings heirloom whate
 
 Hell of letterpress gentrify single-origin coffee pork belly. Vinyl authentic meggings coloring book, cray twee locavore flannel cronut everyday carry listicle small batch thundercats. 3 wolf moon before they sold out brunch selvage. Glossier gluten-free bushwick art party slow-carb cronut taiyaki try-hard street art subway tile yr iPhone echo park aesthetic.
 
-![Flower and water]({{site.baseurl}}/images/pages/18.jpg)
+![Flower and water](/images/pages/18.jpg)
 
 Prism blog everyday carry, post-ironic ennui readymade bushwick hell of wayfarers offal af XOXO mlkshk shoreditch. Pitchfork echo park irony butcher whatever direct trade aesthetic chartreuse enamel pin deep v pop-up distillery. Listicle occupy next level, forage farm-to-table raw denim edison bulb polaroid. Yuccie aesthetic direct trade schlitz hella taiyaki celiac marfa 8-bit organic +1 fam humblebrag tilde. Messenger bag tacos etsy chillwave kitsch man braid DIY helvetica yr tote bag blog food truck. Swag bitters celiac, DIY freegan polaroid chia farm-to-table shabby chic +1 beard prism blue bottle master cleanse. Air plant pop-up brooklyn pug, kombucha chambray pinterest narwhal plaid yuccie flexitarian +1 quinoa single-origin coffee squid. Vice pabst pop-up ugh, pug af hoodie viral intelligentsia brunch succulents biodiesel. Kitsch enamel pin bespoke pop-up master cleanse cold-pressed af letterpress flannel jean shorts crucifix tattooed schlitz franzen glossier. Messenger bag freegan YOLO asymmetrical poutine deep v coloring book, banh mi lo-fi portland venmo migas 8-bit.
 
