@@ -14,8 +14,8 @@ image: servicios.jpg
 <tr><td>Servicio Remoto según disponibilidad</td><td></td></tr>
 <tr><td>Atención telefónica según disponibilidad</td><td></td></tr>
 <tr><td></td><td></td></tr>
-<tr><td style='text-align:right'>Costo Mensual</td><td>$150 + IVA</td></tr>
-<tr><td>Visita Técnica adicional $60 c/u</td></tr>
+<tr><td style='text-align:right'>Costo Mensual</td><td>{{ site.currency }}150 + IVA</td></tr>
+<tr><td>Visita Técnica adicional {{ site.currency }}60 c/u</td></tr>
 </table>
 
 <br>
@@ -28,8 +28,8 @@ image: servicios.jpg
 <tr><td>Atención telefónica según disponibilidad</td><td></td></tr>
 <tr><td>Configuracion VPN (acceso seguro a recursos servidor ) hasta 5 equipos</td><td></td></tr>
 <tr><td></td><td></td></tr>
-<tr><td style='text-align:right'>Costo Mensual</td><td>$200 + IVA</td></tr>
-<tr><td>Visita Técnica adicional $60 c/u</td></tr>
+<tr><td style='text-align:right'>Costo Mensual</td><td>{{ site.currency }}200 + IVA</td></tr>
+<tr><td>Visita Técnica adicional {{ site.currency }}60 c/u</td></tr>
 </table>
 
 <br>
@@ -42,8 +42,8 @@ image: servicios.jpg
 <tr><td>Atención telefónica según disponibilidad</td><td></td></tr>
 <tr><td>Configuracion VPN (acceso seguro a recursos servidor ) hasta 5 equipos</td><td></td></tr>
 <tr><td></td><td></td></tr>
-<tr><td style='text-align:right'>Costo Mensual</td><td>$250 + IVA</td></tr>
-<tr><td>Visita Técnica adicional $60 c/u</td></tr>
+<tr><td style='text-align:right'>Costo Mensual</td><td>{{ site.currency }}250 + IVA</td></tr>
+<tr><td>Visita Técnica adicional {{ site.currency }}60 c/u</td></tr>
 </table>
 
 <br>
@@ -56,8 +56,8 @@ image: servicios.jpg
 <tr><td>Atención telefónica según disponibilidad</td><td></td></tr>
 <tr><td>Configuracion VPN (acceso seguro a recursos servidor ) hasta 10 equipos</td><td></td></tr>
 <tr><td></td><td></td></tr>
-<tr><td style='text-align:right'>Costo Mensual</td><td>$350 + IVA</td></tr>
-<tr><td>Visita Técnica adicional $60 c/u</td></tr>
+<tr><td style='text-align:right'>Costo Mensual</td><td>{{ site.currency }}350 + IVA</td></tr>
+<tr><td>Visita Técnica adicional {{ site.currency }}60 c/u</td></tr>
 </table>
 
 <br>
@@ -66,17 +66,17 @@ image: servicios.jpg
 <table id="servicios-table">
 <tr><th style='width:85%'>Servicio </th><th>Precio </th></tr>
 <tr><td>Revisión , Evaluación y Diagnostico  en tienda</td><td>Gratis</td></tr>
-<tr><td>Instalación de Software (MS Office - Adobe - Autodesk - etc.) </td><td>${{ site.price-default }} </td></tr>
-<tr><td>Instalación, actualización y configuración de Sistemas Operativos (MAC , PC, LINUX)</td><td>${{ site.price-default }} </td></tr>
-<tr><td>Migración de MAC a PC y viceversa.</td><td>${{ site.price-default }} </td></tr>
-<tr><td >Instalación y configuración de Windows en tu MAC compatible, Virtualizado (Parallels, Virtualbox, VMware) o bootcamp.</td><td>${{ site.price-bootcamp }} </td></tr>
+<tr><td>Instalación de Software (MS Office - Adobe - Autodesk - etc.) </td><td>{{ site.currency }}{{ site.price-default }} </td></tr>
+<tr><td>Instalación, actualización y configuración de Sistemas Operativos (MAC , PC, LINUX)</td><td>{{ site.currency }}{{ site.price-default }} </td></tr>
+<tr><td>Migración de MAC a PC y viceversa.</td><td>{{ site.currency }}{{ site.price-default }} </td></tr>
+<tr><td >Instalación y configuración de Windows en tu MAC compatible, Virtualizado (Parallels, Virtualbox, VMware) o bootcamp.</td><td>{{ site.currency }}{{ site.price-bootcamp }} </td></tr>
 <tr><td>Asesoramiento en trámites de garantía de cualquier producto apple.</td><td>Gratis</td></tr>
-<tr><td>Recuperación de datos - Hasta 1TB</td><td>${{ site.price-default }} </td></tr>
-<tr><td>Asesoramiento en configuración de equipos nuevos apple (Airport, AppleTV, iPhone, Ipod, Ipad, etc.)</td><td>${{ site.price-default }} </td></tr>
+<tr><td>Recuperación de datos - Hasta 1TB</td><td>{{ site.currency }}{{ site.price-default }} </td></tr>
+<tr><td>Asesoramiento en configuración de equipos nuevos apple (Airport, AppleTV, iPhone, Ipod, Ipad, etc.)</td><td>{{ site.currency }}{{ site.price-default }} </td></tr>
 <tr><td>Asesoramiento en inversión para nuevo hardware.</td><td>Gratis</td></tr>
-<tr><td>Visita Tecnica</td><td>${{ site.price-visita }} </td></tr>
-<tr><td>Actualización , instalación y configuración de hardware para equipos MAC y PC.</td><td>${{ site.price-default }} </td></tr>
-<tr><td>Servicio de asistencia remota.(teamviewer)</td><td>${{ site.price-default }} </td></tr>
+<tr><td>Visita Tecnica</td><td>{{ site.currency }}{{ site.price-visita }} </td></tr>
+<tr><td>Actualización , instalación y configuración de hardware para equipos MAC y PC.</td><td>{{ site.currency }}{{ site.price-default }} </td></tr>
+<tr><td>Servicio de asistencia remota.(AnyDesk | Rustdesk)</td><td>{{ site.currency }}{{ site.price-default }} </td></tr>
 </table>
 <p>* El pago de la mensualidad se realizará los primeros 5 días de cada mes</p>
 <!--  <p>* Los costos en bolivares no incluyen IVA </p> -->

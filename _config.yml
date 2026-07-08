@@ -17,6 +17,7 @@ anydeskmac: https://download.anydesk.com/anydesk.dmg
 price-default: 80
 price-bootcamp: 100
 price-visita: 100
+currency: "&euro;"
 
 # Author - Creator
 author-name: Javier Obregón
